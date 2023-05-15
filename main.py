@@ -2,17 +2,17 @@ from datetime import datetime
 import pandas as pd
 # ====== HELIOS IMPORTS =========================================
 # ------ Train/Test Function Imports ----------------------------
-from helios.experiments.standard import EXPERIMENT as FLAT
-from helios.experiments.helios_instruction_search import HELIOS_SEARCH
-from helios.experiments.helios_instruction_following import HELIOS_OPTIMIZE
+from helios_rl import STANDARD_RL
+from helios_rl import HELIOS_SEARCH
+from helios_rl import HELIOS_OPTIMIZE
 # ------ Config Import ------------------------------------------
 # Meta parameters
-from helios.config import TestingSetupConfig
+from helios_rl.config import TestingSetupConfig
 # Local parameters
-from helios.config_local import ConfigSetup
+from helios_rl.config_local import ConfigSetup
 # ====== LOCAL IMPORTS ==========================================
 # ------ Local Environment --------------------------------------
-from scenario.Classroom.environment.Class_A import Environment as ClassroomAEnv
+from environment.env import Environment
 # ------ Visual Analysis -----------------------------------------------
 
 
@@ -36,7 +36,7 @@ def main():
     instruction_results = None
     
     helios = HELIOS_SEARCH(Config=ExperimentConfig, LocalConfig=ProblemConfig, 
-                        Environment=ClassroomAEnv,
+                        Environment=Environment,
                         save_dir = save_dir+'/Reinforced_Instr_Experiment',
                         num_plans = num_plans, number_exploration_episodes=num_explor_epi, sim_threshold=sim_threshold,
                         feedback_increment = 0.25, feedback_repeats=1,
@@ -51,15 +51,15 @@ def main():
     # Take Instruction path now defined with reinforced+unsupervised sub-goal locations and train to these
     # Init experiment setup with sub-goal defined
     reinforced_experiment = HELIOS_OPTIMIZE(Config=ExperimentConfig, LocalConfig=ProblemConfig, 
-                    Environment=ClassroomAEnv,
+                    Environment=Environment,
                     save_dir=save_dir+'/Reinforced_Instr_Experiment', show_figures = 'No', window_size=0.1,
                     instruction_path=None, predicted_path=instruction_results)
     reinforced_experiment.train()
     reinforced_experiment.test()
     # --------------------------------------------------------------------
     # Flat Baselines
-    flat = FLAT(Config=ExperimentConfig, LocalConfig=ProblemConfig, 
-                Environment=ClassroomAEnv,
+    flat = STANDARD_RL(Config=ExperimentConfig, LocalConfig=ProblemConfig, 
+                Environment=Environment,
                 save_dir=save_dir, show_figures = 'No', window_size=0.1)
     flat.train()  
     flat.test()

@@ -3,7 +3,7 @@ import pandas as pd
 import torch
 from torch import Tensor
 # StateAdapter includes static methods for adapters
-from helios.encoders.sentence_transformer_MiniLM_L6v2 import LanguageEncoder
+from helios_rl.encoders.sentence_transformer_MiniLM_L6v2 import LanguageEncoder
 
 class DefaultAdapter:
     _cached_state_idx: Dict[str, int] = dict()
