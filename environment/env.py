@@ -3,7 +3,7 @@ import time
 # ------ Imports -----------------------------------------
 from environment.engine import Engine
 # Adapter
-from adapters import default
+from adapters import default, language
 # Agent Setup
 from helios_rl.environment_setup.imports import ImportHelper
 # Evaluation standards
@@ -11,7 +11,8 @@ from helios_rl.environment_setup.results_table import ResultsTable
 from helios_rl.environment_setup.helios_info import HeliosInfo
 
 STATE_ADAPTER_TYPES = {
-    "Engine": default
+    "Default": default,
+    "Language": language
 }
 
 class Environment:
@@ -19,11 +20,9 @@ class Environment:
     def __init__(self, local_setup_info: dict):
         # --- INIT env from engine
         engine = Engine()
-        engine.generate()
         self.start_obs = engine.reset()
         self.legal_move_generator = engine.legal_move_generator()
         # ---
-
         # --- PRESET HELIOS INFO
         # Agent
         Imports = ImportHelper(local_setup_info)
@@ -56,6 +55,7 @@ class Environment:
         for episode in tqdm(range(0, number_episodes)):
             action_history = []
             # ---
+            # Start observation is used instead of .reset() fn so that this can be overriden for repeat analysis from the same start pos
             obs = self.start_obs
             legal_moves = self.legal_move_generator(obs)
             state = self.adapter.adapter(state=obs, legal_moves=legal_moves, episode_action_history=action_history, encode=True)
@@ -72,7 +72,7 @@ class Environment:
                     next_obs, reward, terminated = self.env.step(state=obs, action=agent_action)
                     # Can override reward per action with small negative punishment
                     if reward==0:
-                        reward = -0.05
+                        reward = self.reward_signal[1]
                     
                     legal_moves = self.legal_move_generator(next_obs) 
                     next_state = self.adapter.adapter(state=next_obs, legal_moves=legal_moves, episode_action_history=action_history, encode=True)
@@ -84,9 +84,16 @@ class Environment:
                     self.helios.experience_sampling_add(state, agent_action, next_state, reward, terminated)
                     # Trigger end on sub-goal if defined
                     if self.sub_goal:
-                        if next_obs in self.sub_goal:
-                            reward = self.reward_signal[0]
-                            terminated = True                        
+                        if (type(self.sub_goal)==type(''))|(type(self.sub_goal)==type(0)):
+                            if next_obs == self.sub_goal:
+                                reward = self.reward_signal[0]
+                                terminated = True
+                        elif (type(self.sub_goal)==type(list('')))|(type(self.sub_goal)==type(list(0))):    
+                            if next_obs in self.sub_goal:
+                                reward = self.reward_signal[0]
+                                terminated = True         
+                        else:
+                            print("Sub-Goal Type ERROR: The input sub-goal type must be a str/int or list(str/int).")               
                 else:
                     # Experience Sampling
                     legal_moves = self.helios.experience_sampling_legal_actions(state)
@@ -105,8 +112,11 @@ class Environment:
                 else:    
                     state=next_state
                     if self.live_env:
-                        obs = next_obs
-                        
+                        obs = next_obs        
+            # If action limit reached
+            if not terminated:
+                reward = self.reward_signal[2]     
+                
             end_time = time.time()
             agent_results = self.agent.q_result()
             if self.live_env:
