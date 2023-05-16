@@ -5,7 +5,7 @@ from torch import Tensor
 # StateAdapter includes static methods for adapters
 from helios_rl.encoders.sentence_transformer_MiniLM_L6v2 import LanguageEncoder
 
-class LanguageAdapter:
+class DefaultAdapter:
     _cached_state_idx: Dict[str, int] = dict()
 
     def __init__(self):

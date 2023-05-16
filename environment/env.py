@@ -3,8 +3,7 @@ import time
 # ------ Imports -----------------------------------------
 from environment.engine import Engine
 # Adapter
-from adapters.default import DefaultAdapter
-from adapters.language import LanguageAdapter
+from adapters import default, language
 # Agent Setup
 from helios_rl.environment_setup.imports import ImportHelper
 # Evaluation standards
@@ -13,15 +12,16 @@ from helios_rl.environment_setup.helios_info import HeliosInfo
 
 STATE_ADAPTER_TYPES = {
     "Default": DefaultAdapter,
-    "Language": LanguageAdapter 
+    "Language": LanguageAdapter
 }
 
 class Environment:
 
     def __init__(self, local_setup_info: dict):
         # --- INIT env from engine
-        self.env = Engine()
-        self.start_obs = self.env.reset()
+        engine = Engine()
+        self.start_obs = engine.reset()
+        self.legal_move_generator = engine.legal_move_generator()
         # ---
         # --- PRESET HELIOS INFO
         # Agent
@@ -57,15 +57,15 @@ class Environment:
             # ---
             # Start observation is used instead of .reset() fn so that this can be overriden for repeat analysis from the same start pos
             obs = self.start_obs
-            legal_moves = self.env.legal_move_generator(obs)
-            state = self.agent_state_adapter.adapter(state=obs, legal_moves=legal_moves, episode_action_history=action_history, encode=True)
+            legal_moves = self.legal_move_generator(obs)
+            state = self.adapter.adapter(state=obs, legal_moves=legal_moves, episode_action_history=action_history, encode=True)
             # ---
             start_time = time.time()
             episode_reward:int = 0
             for action in range(0,self.training_action_cap):
                 if self.live_env:
                     # Agent takes action
-                    legal_moves = self.env.legal_move_generator(obs)
+                    legal_moves = self.legal_move_generator(obs)
                     agent_action = self.agent.policy(state, legal_moves)
                     action_history.append(agent_action)
                     
@@ -74,11 +74,11 @@ class Environment:
                     if reward==0:
                         reward = self.reward_signal[1]
                     
-                    legal_moves = self.env.legal_move_generator(next_obs) 
-                    next_state = self.agent_state_adapter.adapter(state=next_obs, legal_moves=legal_moves, episode_action_history=action_history, encode=True)
+                    legal_moves = self.legal_move_generator(next_obs) 
+                    next_state = self.adapter.adapter(state=next_obs, legal_moves=legal_moves, episode_action_history=action_history, encode=True)
                     # HELIOS trackers    
                     self.helios.observed_state_tracker(engine_observation=next_obs,
-                                                        language_state=self.agent_state_adapter.adapter(state=next_obs, legal_moves=legal_moves, episode_action_history=action_history, encode=False))
+                                                        language_state=self.adapter.adapter(state=next_obs, legal_moves=self.legal_actions, episode_action_history=action_history, encode=False))
                     
                     # MUST COME BEFORE SUB-GOAL CHECK OR 'TERMINAL STATES' WILL BE FALSE
                     self.helios.experience_sampling_add(state, agent_action, next_state, reward, terminated)

@@ -20,12 +20,12 @@ class Engine:
         """Enact an action."""
         # In problems where the agent can choose to reset the env
         if (state=="ENV_RESET")|(action=="ENV_RESET"):
-            self.reset()
+            Engine.reset()
             
         obs, reward, terminated = self.Environment.step(action)
         return obs, reward, terminated
 
-    def legal_move_generator(self, obs:any=None):
+    def legal_move_generator(self):
         """Define legal moves at each position"""
-        legal_moves = self.Environment.legal_moves(obs)
+        legal_moves = self.Environment.legal_moves()
         return legal_moves
