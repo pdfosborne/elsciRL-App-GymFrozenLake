@@ -27,7 +27,15 @@ def main():
     time = datetime.now().strftime("%d-%m-%Y_%H-%M")
     save_dir = './output/'+str('test')+'_'+time 
 
-
+    # --------------------------------------------------------------------
+    # Flat Baselines
+    flat = STANDARD_RL(Config=ExperimentConfig, LocalConfig=ProblemConfig, 
+                Environment=Environment,
+                save_dir=save_dir, show_figures = 'No', window_size=0.1)
+    flat.train()  
+    flat.test()
+    # --------------------------------------------------------------------
+    # Hierarchy Approaches
     num_plans = 1
     num_explor_epi = 20
     sim_threshold = 0.95
@@ -56,14 +64,7 @@ def main():
                     instruction_path=None, predicted_path=instruction_results)
     reinforced_experiment.train()
     reinforced_experiment.test()
-    # --------------------------------------------------------------------
-    # Flat Baselines
-    flat = STANDARD_RL(Config=ExperimentConfig, LocalConfig=ProblemConfig, 
-                Environment=Environment,
-                save_dir=save_dir, show_figures = 'No', window_size=0.1)
-    flat.train()  
-    flat.test()
-    # --------------------------------------------------------------------
+    
 
 if __name__=='__main__':
     main()
