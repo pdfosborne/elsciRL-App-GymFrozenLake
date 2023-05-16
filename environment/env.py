@@ -13,7 +13,7 @@ from helios_rl.environment_setup.helios_info import HeliosInfo
 
 STATE_ADAPTER_TYPES = {
     "Default": DefaultAdapter,
-    "Language": LanguageAdapter
+    "Language": LanguageAdapter 
 }
 
 class Environment:
