@@ -1,3 +1,3 @@
-# HELIOS-RL-ScienceWorld
+# HELIOS-RL-TEMPLATE
 
-Application of the HELIOS-RL system to ScienceWorld https://github.com/allenai/ScienceWorld.
+Template of the HELIOS-RL system for applying to new problems.
