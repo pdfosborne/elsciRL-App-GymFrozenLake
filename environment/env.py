@@ -88,7 +88,7 @@ class Environment:
                             if next_obs == self.sub_goal:
                                 reward = self.reward_signal[0]
                                 terminated = True
-                        elif (type(self.sub_goal)==type(list('')))|(type(self.sub_goal)==type(list(0))):    
+                        elif (type(self.sub_goal)==type(list('')))|(type(self.sub_goal)==type([0])):    
                             if next_obs in self.sub_goal:
                                 reward = self.reward_signal[0]
                                 terminated = True         
