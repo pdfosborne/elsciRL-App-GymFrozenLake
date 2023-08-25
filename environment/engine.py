@@ -1,3 +1,4 @@
+import gymnasium as gym
 
 class Engine:
     """Defines the environment function from the generator engine.
@@ -8,11 +9,11 @@ class Engine:
     """
     def __init__(self) -> None:
         """Initialize Engine"""
-        self.Environment = "Engine Initialization"
+        self.Environment = gym.make('FrozenLake-v1', desc=None, map_name="4x4", is_slippery=True)
         
     def reset(self):
         """Fully reset the environment."""
-        obs, _ = self.Environment.reset()
+        obs, info = self.Environment.reset()
         return obs
 
     
@@ -22,11 +23,11 @@ class Engine:
         if (state=="ENV_RESET")|(action=="ENV_RESET"):
             self.reset()
             
-        obs, reward, terminated = self.Environment.step(action)
+        obs, reward, terminated, truncated, info = self.Environment.step(action)
         return obs, reward, terminated
 
     def legal_move_generator(self, obs:any=None):
         """Define legal moves at each position"""
-        legal_moves = self.Environment.legal_moves(obs)
+        legal_moves = [0,1,2,3]
         return legal_moves
 
