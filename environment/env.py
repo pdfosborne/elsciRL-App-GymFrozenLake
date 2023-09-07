@@ -5,6 +5,7 @@ from environment.engine import Engine
 # Adapter
 from adapters.default import DefaultAdapter
 from adapters.language import LanguageAdapter
+from adapters.default_8x8 import DefaultAdapter as DefaultAdapter8x8
 # Agent Setup
 from helios_rl.environment_setup.imports import ImportHelper
 # Evaluation standards
@@ -13,7 +14,8 @@ from helios_rl.environment_setup.helios_info import HeliosInfo
 
 STATE_ADAPTER_TYPES = {
     "Default": DefaultAdapter,
-    "Language": LanguageAdapter 
+    "Language": LanguageAdapter,
+    "Default_8x8": DefaultAdapter8x8
 }
 
 class Environment:
