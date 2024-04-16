@@ -4,7 +4,7 @@ Template of the HELIOS-RL system for applying to new problems.
 
 To apply the template to a new problem:
 
-1. Install HELIOS-RL using pip install helios-rl
+1. Install HELIOS-RL (private until further development)
 2. Clone this repository to local directory
 3. Update the environment>engine.py script to setup the problem specific interaction
 4. Align adapter to problem (including encoder choice) 
