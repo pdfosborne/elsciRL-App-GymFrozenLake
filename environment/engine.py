@@ -81,11 +81,11 @@ class Engine:
         if state is None:
             state = self.obs_history[-1] if self.obs_history else 0
 
-        row = state // 4
-        col = state % 4
+        row = int(state) // 4
+        col = int(state) % 4
         goal_row = self.terminal_goal // 4
         goal_col = self.terminal_goal % 4
-        
+
         fig, ax = plt.subplots()
         # Draw grid lines
         for i in range(5):
