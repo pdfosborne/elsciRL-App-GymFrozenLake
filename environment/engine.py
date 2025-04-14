@@ -1,5 +1,8 @@
 import gymnasium as gym
 import time
+import numpy as np
+import matplotlib.pyplot as plt
+
 class Engine:
     """Defines the environment function from the generator engine.
        Expects the following:
@@ -46,10 +49,10 @@ class Engine:
 
     def reset(self, start_obs:any=None):
         """Fully reset the environment."""
-        obs, _ = self.Environment.reset()
+        self.obs, _ = self.Environment.reset()
         self.action_history = []
         self.obs_history = []
-        return obs
+        return self.obs
     
     def step(self, state:any=None, action:any=None):
         """Enact an action."""
@@ -57,14 +60,14 @@ class Engine:
         self.action_history.append(action)
        
         # Return outcome of action
-        obs, reward, terminated, truncated, info = self.Environment.step(action)
-        self.obs_history.append(obs)
+        self.obs, reward, terminated, truncated, info = self.Environment.step(action)
+        self.obs_history.append(self.obs)
         
         if len(self.action_history)>=self.action_limit:
             reward = 0
             terminated = True
             
-        return obs, reward, terminated, info
+        return self.obs, reward, terminated, info
 
     def legal_move_generator(self, obs:any=None):
         """Define legal moves at each position"""
@@ -73,8 +76,35 @@ class Engine:
     
     def render(self, state:any=None):
         """Render the environment."""
-        render = self.Environment.render()
-        return render
+        # Needs to be a matplotlib figure to work with elsciRL 
+        #render = self.Environment.render()
+        
+        if self.obs is None:
+            # Use last observation if none provided
+            self.obs = self.obs_history[-1] if self.obs_history else 0
+
+        row = self.obs // 4
+        col = self.obs % 4
+        goal_row = self.terminal_goal // 4
+        goal_col = self.terminal_goal % 4
+        
+        fig, ax = plt.subplots()
+        # Draw grid lines
+        for i in range(5):
+            ax.axhline(i, color='black')
+            ax.axvline(i, color='black')
+        # Plot agent position
+        ax.plot(col + 0.5, 3 - row + 0.5, "bo", markersize=15, label="Agent")
+        # Plot terminal goal
+        ax.plot(goal_col + 0.5, 3 - goal_row + 0.5, "rx", markersize=15, label="Goal")
+        
+        ax.set_xlim(0,4)
+        ax.set_ylim(0,4)
+        ax.set_aspect("equal")
+        ax.legend()
+        plt.show()
+        return fig
+        
     
     def close(self):
         """Close/Exit the environment."""
