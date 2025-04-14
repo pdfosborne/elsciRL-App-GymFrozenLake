@@ -1,6 +1,6 @@
 {   
-    "name": "template",
-    "problem_type": "template",
+    "name": "Gym-FrozenLake",
+    "problem_type": "ToyText",
     
     "experience_sample_batch_ratio": 0,
      
