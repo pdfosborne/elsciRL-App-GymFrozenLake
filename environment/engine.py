@@ -78,11 +78,11 @@ class Engine:
         """Render the environment."""
         # Needs to be a matplotlib figure to work with elsciRL 
         #render = self.Environment.render()
-        
-        agent_pos = self.obs_history[-1] if self.obs_history else 0
+        if state is None:
+            state = self.obs_history[-1] if self.obs_history else 0
 
-        row = agent_pos // 4
-        col = agent_pos % 4
+        row = state // 4
+        col = state % 4
         goal_row = self.terminal_goal // 4
         goal_col = self.terminal_goal % 4
         
