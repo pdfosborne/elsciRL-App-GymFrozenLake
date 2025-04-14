@@ -24,7 +24,7 @@ class LanguageAdapter:
                 6:'You are on ice, to your west and east are ice holes.', 
                 7:'You fell through a hole in the ice!',
                 8:'You are on ice, to your south is an ice hole.',
-                9:'You are on ice.', 
+                9:'You are on ice, to your north is an ice hole.', 
                 10:'You are on ice, to your east is an ice hole.', 
                 11:'You fell through a hole in the ice!',
                 12:'You fell through a hole in the ice!', 

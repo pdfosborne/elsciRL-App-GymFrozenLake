@@ -49,10 +49,10 @@ class Engine:
 
     def reset(self, start_obs:any=None):
         """Fully reset the environment."""
-        self.obs, _ = self.Environment.reset()
+        obs, _ = self.Environment.reset()
         self.action_history = []
         self.obs_history = []
-        return self.obs
+        return obs
     
     def step(self, state:any=None, action:any=None):
         """Enact an action."""
@@ -60,14 +60,14 @@ class Engine:
         self.action_history.append(action)
        
         # Return outcome of action
-        self.obs, reward, terminated, truncated, info = self.Environment.step(action)
-        self.obs_history.append(self.obs)
+        obs, reward, terminated, truncated, info = self.Environment.step(action)
+        self.obs_history.append(obs)
         
         if len(self.action_history)>=self.action_limit:
             reward = 0
             terminated = True
             
-        return self.obs, reward, terminated, info
+        return obs, reward, terminated, info
 
     def legal_move_generator(self, obs:any=None):
         """Define legal moves at each position"""
@@ -79,12 +79,10 @@ class Engine:
         # Needs to be a matplotlib figure to work with elsciRL 
         #render = self.Environment.render()
         
-        if self.obs is None:
-            # Use last observation if none provided
-            self.obs = self.obs_history[-1] if self.obs_history else 0
+        agent_pos = self.obs_history[-1] if self.obs_history else 0
 
-        row = self.obs // 4
-        col = self.obs % 4
+        row = agent_pos // 4
+        col = agent_pos % 4
         goal_row = self.terminal_goal // 4
         goal_col = self.terminal_goal % 4
         

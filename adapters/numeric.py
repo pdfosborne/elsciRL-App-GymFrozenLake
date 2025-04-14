@@ -19,7 +19,8 @@ class DefaultAdapter:
         # Initialise encoder based on all possible env states
         env_size = setup_info['environment_size']
         num_positions = int(env_size.split("x")[0]) * int(env_size.split("x")[-1])
-        self.encoder = StateEncoder(num_positions)
+        possible_positions = [i for i in range(num_positions)]
+        self.encoder = StateEncoder(possible_positions)
         # --------------------------------------------------------------------
         # ONLY IF USING GYMNASIUM BASED AGENTS
         # - Observation space is required for Gym based agent, prebuilt HELIOS encoders provide this (TODO)
