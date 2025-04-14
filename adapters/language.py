@@ -15,10 +15,22 @@ class LanguageAdapter:
         env_size = setup_info['environment_size']
         if env_size == "4x4":
             self.obs_mapping = {
-                0:'You are at the start position.', 1:'You are on ice.', 2:'You are on ice.', 3:'You are on ice.',
-                4:'You are on ice.', 5:'You fell through a hole in the ice!', 6:'You are on ice.', 7:'You fell through a hole in the ice!',
-                8:'You are on ice.', 9:'You are on ice.', 10:'You are on ice.', 11:'You fell through a hole in the ice!',
-                12:'You fell through a hole in the ice!', 13:'You are on ice.', 14:'You are on ice.', 15:'You found the chest!'
+                0:'You are at the start position.', 
+                1:'You are on ice, to your south is an ice hole.',
+                2:'You are on ice.', 
+                3:'You are on ice, to your south is an ice hole.',
+                4:'You are on ice, to your east is an ice hole.', 
+                5:'You fell through a hole in the ice!', 
+                6:'You are on ice, to your west and east are ice holes.', 
+                7:'You fell through a hole in the ice!',
+                8:'You are on ice, to your south is an ice hole.',
+                9:'You are on ice.', 
+                10:'You are on ice, to your east is an ice hole.', 
+                11:'You fell through a hole in the ice!',
+                12:'You fell through a hole in the ice!', 
+                13:'You are on ice, to your west is an ice hole.', 
+                14:'You are on ice.', 
+                15:'You found the chest!'
             }
         else:
             raise ValueError("LanguageAdapter only supports 4x4 grid size.")
