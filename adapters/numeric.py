@@ -45,9 +45,9 @@ class Adapter:
         if (indexed):
             state_indexed = list()
             for sent in state:
-                if (sent not in DefaultAdapter._cached_state_idx):
-                    DefaultAdapter._cached_state_idx[sent] = len(DefaultAdapter._cached_state_idx)
-                state_indexed.append(DefaultAdapter._cached_state_idx[sent])
+                if (sent not in Adapter._cached_state_idx):
+                    Adapter._cached_state_idx[sent] = len(Adapter._cached_state_idx)
+                state_indexed.append(Adapter._cached_state_idx[sent])
 
             state_encoded = torch.tensor(state_indexed)
 
