@@ -20,7 +20,7 @@ class Adapter:
         env_size = setup_info['environment_size']
         num_positions = int(env_size.split("x")[0]) * int(env_size.split("x")[-1])
         possible_positions = [i for i in range(num_positions)]
-        self.encoder = StateEncoder(possible_positions)
+        self.encoder = StateEncoder(len(possible_positions))
         # --------------------------------------------------------------------
         # ONLY IF USING GYMNASIUM BASED AGENTS
         # - Observation space is required for Gym based agent, prebuilt HELIOS encoders provide this (TODO)
@@ -38,7 +38,7 @@ class Adapter:
         """ Use State Encoder to convert id position to tensor """    
         # Encode to Tensor for agents
         if encode:
-            state_encoded = self.encoder.encode(state=(state), indexed=True)   
+            state_encoded = self.encoder.encode(state=state)   
         else:
             state_encoded = state
 
