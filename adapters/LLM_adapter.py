@@ -39,7 +39,7 @@ class Adapter:
 
         self.LLM_adapter = OllamaAdapter(
             model_name=setup_info.get('model_name', 'llama3.2'),
-            base_prompt=setup_info.get('system_prompt', 'You are playing a navigating a grid based Gym environment.'),
+            base_prompt=setup_info.get('system_prompt', 'You are playing a navigating a grid based Gym environment, specifically the FrozenLake problem where the elf must reach the present by avoiding ice holes.'),
             context_length=2000,
             action_history_length=setup_info.get('action_history_length', 5),
             encoder=setup_info.get('encoder', 'MiniLM_L6v2')
