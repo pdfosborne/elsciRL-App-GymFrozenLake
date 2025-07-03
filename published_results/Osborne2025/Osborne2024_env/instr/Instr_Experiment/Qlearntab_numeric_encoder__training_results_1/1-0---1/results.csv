@@ -1,0 +1,1001 @@
+,agent,opponent,episode,num_actions,episode_reward,cumulative_reward,time_per_episode,action_history,q_total,q_mean
+0,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,0,6,0.0,0.0,0.0,"[3, 2, 0, 0, 1, 1, 1]",0.0,0.0
+1,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,1,5,0.0,0.0,0.0,"[1, 0, 3, 0, 2, 1]",0.0,0.0
+2,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,2,17,0.0,0.0,0.0010035037994384766,"[2, 3, 2, 0, 3, 0, 0, 0, 0, 0, 3, 2, 0, 0, 3, 3, 1, 2]",0.0,0.0
+3,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,3,8,0.0,0.0,0.0,"[0, 0, 0, 0, 3, 1, 0, 0, 2]",0.0,0.0
+4,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,4,1,0.0,0.0,0.0,"[2, 1]",0.0,0.0
+5,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,5,5,0.0,0.0,0.0009980201721191406,"[1, 0, 3, 1, 0, 2]",0.0,0.0
+6,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,6,3,0.0,0.0,0.0,"[2, 3, 3, 1]",0.0,0.0
+7,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,7,1,0.0,0.0,0.0,"[1, 2]",0.0,0.0
+8,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,8,5,0.0,0.0,0.0,"[2, 3, 0, 2, 3, 1]",0.0,0.0
+9,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,9,1,0.0,0.0,0.0,"[1, 2]",0.0,0.0
+10,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,10,1,0.0,0.0,0.0,"[1, 2]",0.0,0.0
+11,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,11,9,0.0,0.0,0.0,"[2, 3, 3, 3, 2, 3, 2, 0, 1, 2]",0.0,0.0
+12,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,12,3,0.0,0.0,0.001001119613647461,"[1, 1, 0, 1]",0.0,0.0
+13,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,13,9,0.0,0.0,0.0,"[1, 0, 1, 3, 0, 3, 2, 3, 3, 1]",0.0,0.0
+14,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,14,2,0.0,0.0,0.0,"[2, 3, 1]",0.0,0.0
+15,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,15,2,0.0,0.0,0.0,"[3, 2, 1]",0.0,0.0
+16,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,16,6,0.0,0.0,0.0,"[2, 0, 1, 1, 0, 2, 3]",0.0,0.0
+17,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,17,4,0.0,0.0,0.0,"[3, 1, 1, 0, 1]",0.0,0.0
+18,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,18,6,0.0,0.0,0.0,"[2, 0, 2, 3, 2, 2, 1]",0.0,0.0
+19,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,19,8,0.0,0.0,0.0,"[2, 3, 0, 1, 0, 0, 1, 0, 1]",0.0,0.0
+20,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,20,1,0.0,0.0,0.0,"[2, 1]",0.0,0.0
+21,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,21,12,1.0,1.0,0.001077413558959961,"[2, 0, 2, 0, 3, 1, 0, 1, 2, 1, 2, 1, 2]",0.05,0.05
+22,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,22,4,0.0,1.0,0.0,"[0, 2, 2, 1, 0]",0.05,0.05
+23,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,23,3,0.0,1.0,0.0,"[1, 1, 3, 2]",0.05,0.05
+24,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,24,4,0.0,1.0,0.0,"[0, 3, 2, 3, 1]",0.05,0.05
+25,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,25,3,0.0,1.0,0.0,"[0, 0, 2, 1]",0.05,0.05
+26,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,26,15,0.0,1.0,0.0009996891021728516,"[0, 3, 0, 2, 2, 0, 0, 1, 1, 0, 0, 2, 2, 0, 0, 1]",0.05,0.05
+27,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,27,8,0.0,1.0,0.0,"[1, 1, 0, 3, 0, 0, 1, 0, 1]",0.05,0.05
+28,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,28,17,0.0,1.0,0.0009987354278564453,"[1, 1, 0, 3, 3, 1, 3, 3, 3, 3, 2, 3, 0, 3, 3, 2, 3, 1]",0.05,0.05
+29,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,29,2,0.0,1.0,0.0,"[3, 1, 2]",0.05,0.05
+30,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,30,10,0.0,1.0,0.0,"[3, 0, 1, 3, 1, 0, 3, 1, 3, 1, 2]",0.05,0.05
+31,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,31,11,0.0,1.0,0.0,"[1, 3, 3, 2, 0, 1, 1, 0, 2, 1, 3, 3]",0.05,0.05
+32,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,32,7,0.0,1.0,0.0009996891021728516,"[2, 2, 3, 1, 3, 1, 1, 2]",0.05,0.05
+33,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,33,11,0.0,1.0,0.0,"[0, 3, 3, 2, 2, 0, 3, 2, 1, 1, 3, 0]",0.05,0.05
+34,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,34,6,0.0,1.0,0.0,"[3, 1, 3, 0, 1, 1, 1]",0.05,0.05
+35,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,35,9,0.0,1.0,0.0010008811950683594,"[0, 3, 3, 3, 0, 1, 3, 3, 2, 1]",0.05,0.05
+36,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,36,9,0.0,1.0,0.0,"[3, 3, 0, 3, 0, 3, 0, 3, 1, 2]",0.05,0.05
+37,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,37,3,0.0,1.0,0.0,"[0, 0, 1, 2]",0.05,0.05
+38,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,38,11,0.0,1.0,0.0,"[2, 2, 2, 3, 2, 0, 0, 0, 3, 3, 2, 1]",0.05,0.05
+39,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,39,1,0.0,1.0,0.0,"[2, 1]",0.05,0.05
+40,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,40,3,0.0,1.0,0.0,"[0, 0, 2, 1]",0.05,0.05
+41,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,41,3,0.0,1.0,0.0,"[1, 0, 1, 1]",0.05,0.05
+42,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,42,6,0.0,1.0,0.0,"[3, 0, 1, 0, 1, 0, 1]",0.05,0.05
+43,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,43,6,0.0,1.0,0.0,"[2, 3, 0, 2, 3, 3, 1]",0.05,0.05
+44,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,44,2,0.0,1.0,0.0,"[0, 1, 2]",0.05,0.05
+45,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,45,8,0.0,1.0,0.0010008811950683594,"[1, 3, 2, 3, 2, 0, 2, 1, 0]",0.05,0.05
+46,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,46,3,0.0,1.0,0.0,"[1, 3, 1, 2]",0.05,0.05
+47,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,47,9,0.0,1.0,0.0,"[1, 0, 0, 3, 0, 2, 0, 3, 1, 2]",0.05,0.05
+48,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,48,2,0.0,1.0,0.0,"[1, 0, 2]",0.05,0.05
+49,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,49,9,0.0,1.0,0.0009992122650146484,"[3, 1, 3, 3, 2, 3, 2, 3, 1, 2]",0.05,0.05
+50,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,50,1,0.0,1.0,0.0,"[2, 1]",0.05,0.05
+51,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,51,1,0.0,1.0,0.0,"[2, 1]",0.05,0.05
+52,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,52,2,0.0,1.0,0.0,"[0, 2, 1]",0.05,0.05
+53,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,53,15,0.0,1.0,0.0,"[0, 0, 2, 3, 3, 0, 1, 3, 3, 3, 0, 3, 3, 2, 3, 1]",0.05,0.05
+54,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,54,8,0.0,1.0,0.0009999275207519531,"[2, 0, 2, 2, 2, 2, 0, 2, 1]",0.05,0.05
+55,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,55,2,0.0,1.0,0.0,"[3, 2, 1]",0.05,0.05
+56,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,56,9,0.0,1.0,0.0,"[0, 3, 0, 2, 3, 2, 2, 3, 3, 1]",0.05,0.05
+57,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,57,2,0.0,1.0,0.0,"[1, 1, 1]",0.05,0.05
+58,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,58,3,0.0,1.0,0.0,"[3, 1, 1, 1]",0.05,0.05
+59,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,59,5,0.0,1.0,0.0,"[3, 1, 3, 2, 3, 1]",0.05,0.05
+60,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,60,5,0.0,1.0,0.0,"[2, 0, 1, 0, 0, 2]",0.05,0.05
+61,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,61,6,0.0,1.0,0.0,"[0, 0, 2, 0, 0, 1, 2]",0.05,0.05
+62,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,62,18,0.0,1.0,0.0009999275207519531,"[2, 3, 0, 0, 0, 0, 1, 3, 0, 3, 2, 0, 3, 2, 2, 3, 0, 3, 1]",0.05,0.05
+63,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,63,15,0.0,1.0,0.0,"[1, 0, 0, 0, 3, 2, 2, 1, 3, 3, 3, 2, 3, 0, 1, 2]",0.05,0.05
+64,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,64,11,1.0,2.0,0.0,"[2, 2, 2, 3, 3, 2, 2, 0, 1, 1, 1, 2]",0.099875,0.0499375
+65,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,65,8,0.0,2.0,0.0010676383972167969,"[0, 0, 3, 1, 3, 1, 0, 0, 2]",0.099875,0.0499375
+66,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,66,9,1.0,3.0,0.0,"[3, 2, 3, 2, 3, 3, 1, 1, 1, 2]",0.1496253125,0.04987510416666666
+67,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,67,6,1.0,4.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",0.19925124921875,0.0498128123046875
+68,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,68,4,0.0,4.0,0.0,"[0, 0, 0, 1, 2]",0.19925124921875,0.0498128123046875
+69,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,69,2,0.0,4.0,0.0010023117065429688,"[2, 3, 1]",0.19925124921875,0.0498128123046875
+70,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,70,6,1.0,5.0,0.0,"[2, 3, 2, 1, 1, 1, 2]",0.24875312109570313,0.04975062421914063
+71,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,71,5,1.0,6.0,0.0,"[2, 2, 1, 1, 1, 2]",0.2981312382929639,0.04968853971549398
+72,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,72,6,1.0,7.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",0.3599690448182535,0.051424149259750494
+73,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,73,5,1.0,8.0,0.0,"[2, 2, 1, 1, 1, 2]",0.40910057619644946,0.05844293945663564
+74,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,74,5,1.0,9.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",0.4581092678619586,0.06544418112313695
+75,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,75,9,1.0,10.0,0.0,"[2, 2, 2, 0, 2, 0, 1, 1, 1, 2]",0.5070476829127963,0.05633863143475515
+76,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,76,5,1.0,11.0,0.0,"[2, 2, 1, 1, 1, 2]",0.5558115509816552,0.061756838997961694
+77,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,77,5,1.0,12.0,0.0,"[2, 2, 1, 1, 1, 2]",0.6044533973978239,0.0671614885997582
+78,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,78,7,0.0,12.0,0.00099945068359375,"[2, 2, 1, 1, 1, 0, 1, 0]",0.6259554397786011,0.06955060441984456
+79,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,79,5,1.0,13.0,0.0,"[2, 2, 1, 1, 1, 2]",0.6744214138061442,0.07493571264512713
+80,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,80,7,1.0,14.0,0.0,"[2, 2, 2, 0, 1, 1, 1, 2]",0.7229354992709065,0.08032616658565628
+81,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,81,5,1.0,15.0,0.0,"[2, 2, 1, 1, 1, 2]",0.771158232608113,0.08568424806756811
+82,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,82,5,1.0,16.0,0.0,"[2, 2, 1, 1, 1, 2]",0.81925937653355,0.09102881961483889
+83,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,83,5,1.0,17.0,0.0,"[2, 2, 1, 1, 1, 2]",0.8672388407635293,0.0963598711959477
+84,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,84,5,1.0,18.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",0.9150964363602867,0.10167738181780964
+85,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,85,5,1.0,19.0,0.0,"[2, 2, 1, 1, 1, 2]",0.9628318635158966,0.10698131816843295
+86,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,86,1,0.0,19.0,0.0,"[2, 1]",0.9629185168745688,0.10699094631939653
+87,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,87,8,1.0,20.0,0.0,"[0, 2, 2, 1, 1, 1, 3, 1, 2]",1.03946466982601,0.0944967881660009
+88,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,88,4,0.0,20.0,0.0,"[2, 2, 3, 1, 2]",1.0437404221563198,0.08697836851302665
+89,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,89,5,1.0,21.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",1.0911710552493656,0.09093092127078047
+90,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,90,5,1.0,22.0,0.0,"[2, 2, 1, 1, 1, 2]",1.138477002771479,0.09487308356428992
+91,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,91,5,1.0,23.0,0.0,"[2, 2, 1, 1, 1, 2]",1.1856572308633537,0.09880476923861281
+92,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,92,6,1.0,24.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",1.2327581263651295,0.09482754818193304
+93,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,93,5,1.0,25.0,0.0,"[2, 2, 1, 1, 1, 2]",1.279683275536566,0.0984371750412743
+94,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,94,5,1.0,26.0,0.0,"[2, 2, 1, 1, 1, 2]",1.326478755786019,0.10203682736815531
+95,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,95,5,1.0,27.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",1.373142918681085,0.10562637836008347
+96,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,96,5,1.0,28.0,0.0,"[2, 2, 1, 1, 1, 2]",1.419673930355077,0.10920568695039054
+97,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,97,5,1.0,29.0,0.0,"[2, 2, 1, 1, 1, 2]",1.4660697627302386,0.11277459713309528
+98,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,98,5,1.0,30.0,0.0,"[2, 2, 1, 1, 1, 2]",1.5123281865498441,0.11633293742691109
+99,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,99,6,1.0,31.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",1.5951222680866366,0.12270171292974127
+100,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,100,5,1.0,32.0,0.0010008811950683594,"[2, 2, 1, 1, 1, 2]",1.6410983577267078,0.12623833520974675
+101,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,101,7,1.0,33.0,0.0,"[2, 2, 1, 3, 1, 1, 1, 2]",1.69651124469942,0.12117937462138714
+102,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,102,5,1.0,34.0,0.0,"[2, 2, 1, 1, 1, 2]",1.7421787694601385,0.12444134067572418
+103,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,103,4,0.0,34.0,0.0,"[2, 3, 2, 1, 2]",1.7537034099706752,0.11691356066471167
+104,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,104,5,1.0,35.0,0.0,"[2, 2, 1, 1, 1, 2]",1.79915144563714,0.11994342970914267
+105,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,105,8,1.0,36.0,0.0009989738464355469,"[2, 2, 1, 1, 1, 0, 2, 1, 2]",1.9211983823050636,0.12007489889406647
+106,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,106,5,1.0,37.0,0.0,"[2, 2, 1, 1, 1, 2]",1.966321576491135,0.12289509853069594
+107,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,107,3,0.0,37.0,0.0,"[2, 2, 1, 0]",1.9781024326751702,0.12363140204219814
+108,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,108,6,1.0,38.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",2.0590259601277086,0.12868912250798178
+109,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,109,3,0.0,38.0,0.0,"[2, 2, 1, 0]",2.0712091993193624,0.12945057495746015
+110,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,110,3,0.0,38.0,7.033348083496094e-05,"[2, 2, 1, 0]",2.0832908378012824,0.13020567736258015
+111,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,111,5,1.0,39.0,0.0,"[2, 2, 1, 1, 1, 2]",2.1277682069625192,0.13298551293515745
+112,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,112,5,1.0,40.0,0.0,"[2, 2, 1, 1, 1, 2]",2.172052981813734,0.1357533113633584
+113,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,113,5,1.0,41.0,0.0,"[2, 2, 1, 1, 1, 2]",2.2161405009471817,0.13850878130919886
+114,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,114,6,1.0,42.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",2.295603728194626,0.14347523301216414
+115,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,115,5,1.0,43.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",2.339282998064209,0.14620518737901306
+116,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,116,10,1.0,44.0,0.0,"[2, 2, 0, 3, 2, 1, 1, 0, 1, 2, 2]",2.4253186023145217,0.13473992235080676
+117,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,117,4,0.0,44.0,0.0,"[2, 2, 1, 1, 2]",2.4516677612453806,0.13620376451363225
+118,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,118,5,1.0,45.0,0.0,"[2, 2, 1, 1, 1, 2]",2.494750718538311,0.13859726214101728
+119,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,119,5,1.0,46.0,0.0,"[2, 2, 1, 1, 1, 2]",2.5376001749723,0.14097778749846113
+120,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,120,5,1.0,47.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",2.580212514873426,0.14334513971519033
+121,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,121,5,1.0,48.0,0.0,"[2, 2, 1, 1, 1, 2]",2.6225840283421387,0.14569911268567437
+122,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,122,5,1.0,49.0,0.0,"[2, 2, 1, 1, 1, 2]",2.664710917956455,0.1480394954420253
+123,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,123,5,1.0,50.0,0.0,"[2, 2, 1, 1, 1, 2]",2.706589305773612,0.15036607254297843
+124,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,124,5,1.0,51.0,0.0,"[2, 2, 1, 1, 1, 2]",2.748215240628442,0.1526786244793579
+125,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,125,6,1.0,52.0,0.0009996891021728516,"[2, 3, 2, 1, 1, 1, 2]",2.7951996521574833,0.15528886956430463
+126,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,126,4,0.0,52.0,0.0,"[2, 2, 1, 1, 2]",2.8236937327457046,0.15687187404142802
+127,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,127,5,1.0,53.0,0.0,"[2, 2, 1, 1, 1, 2]",2.8645695219754,0.15914275122085556
+128,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,128,7,0.0,53.0,0.0,"[2, 2, 1, 1, 0, 1, 3, 3]",2.897082937854165,0.14485414689270826
+129,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,129,1,0.0,53.0,0.0,"[2, 1]",2.9007987135150053,0.14503993567575027
+130,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,130,3,0.0,53.0,0.0,"[2, 2, 1, 2]",2.9192637699435777,0.14596318849717888
+131,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,131,5,1.0,54.0,0.0,"[2, 2, 1, 1, 1, 2]",2.9592282815319235,0.1479614140765962
+132,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,132,5,1.0,55.0,0.0,"[2, 2, 1, 1, 1, 2]",2.99891983729872,0.149945991864936
+133,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,133,5,1.0,56.0,0.0,"[2, 2, 1, 1, 1, 2]",3.0383337583602854,0.15191668791801427
+134,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,134,5,1.0,57.0,0.0,"[2, 2, 1, 1, 1, 2]",3.077465446324439,0.15387327231622194
+135,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,135,4,0.0,57.0,0.0,"[2, 2, 1, 1, 2]",3.1058775937570164,0.15529387968785083
+136,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,136,6,1.0,58.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",3.181502885126527,0.15907514425632635
+137,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,137,5,1.0,59.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",3.2197871447282767,0.16098935723641383
+138,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,138,5,1.0,60.0,0.0,"[2, 2, 1, 1, 1, 2]",3.257771570536205,0.16288857852681024
+139,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,139,5,1.0,61.0,0.0,"[2, 2, 1, 1, 1, 2]",3.2954520068563533,0.16477260034281765
+140,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,140,5,1.0,62.0,0.0,"[2, 2, 1, 1, 1, 2]",3.3328243967090705,0.16664121983545352
+141,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,141,7,1.0,63.0,0.0,"[2, 2, 0, 2, 1, 1, 1, 2]",3.387002554103836,0.1693501277051918
+142,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,142,5,1.0,64.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",3.423730585193436,0.1711865292596718
+143,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,143,5,1.0,65.0,0.0,"[2, 2, 1, 1, 1, 2]",3.460124172917003,0.17300620864585015
+144,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,144,5,1.0,66.0,0.0,"[2, 2, 1, 1, 1, 2]",3.4961812226677105,0.1748090611333855
+145,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,145,5,1.0,67.0,0.0,"[2, 2, 1, 1, 1, 2]",3.531899641720222,0.1765949820860111
+146,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,146,5,1.0,68.0,0.0,"[2, 2, 1, 1, 1, 2]",3.5672773500017456,0.1783638675000873
+147,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,147,6,1.0,69.0,0.0010001659393310547,"[2, 2, 3, 1, 1, 1, 2]",3.6225296340489717,0.18112648170244858
+148,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,148,6,1.0,70.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",3.6643285699691392,0.18321642849845696
+149,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,149,5,1.0,71.0,0.0,"[2, 2, 1, 1, 1, 2]",3.6986719398078707,0.18493359699039352
+150,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,150,5,1.0,72.0,0.0,"[2, 2, 1, 1, 1, 2]",3.732666597920889,0.18663332989604445
+151,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,151,5,1.0,73.0,0.0,"[2, 2, 1, 1, 1, 2]",3.7663106669703295,0.18831553334851647
+152,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,152,5,1.0,74.0,0.0010006427764892578,"[2, 2, 1, 1, 1, 2]",3.7996023341196032,0.18998011670598017
+153,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,153,4,0.0,74.0,0.0,"[3, 2, 2, 1, 0]",3.8284859244045673,0.19142429622022836
+154,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,154,5,1.0,75.0,0.0,"[2, 2, 1, 1, 1, 2]",3.8610979782570434,0.19305489891285216
+155,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,155,5,1.0,76.0,0.0,"[2, 2, 1, 1, 1, 2]",3.8933525685150854,0.19466762842575427
+156,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,156,5,1.0,77.0,0.0,"[2, 2, 1, 1, 1, 2]",3.9252482039219116,0.19626241019609558
+157,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,157,5,1.0,78.0,0.0,"[2, 2, 1, 1, 1, 2]",3.956783521909805,0.19783917609549023
+158,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,158,6,1.0,79.0,0.00099945068359375,"[2, 2, 3, 1, 1, 1, 2]",4.011257543671803,0.20056287718359017
+159,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,159,5,1.0,80.0,0.0,"[2, 2, 1, 1, 1, 2]",4.0420686471448715,0.20210343235724357
+160,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,160,5,1.0,81.0,0.0,"[2, 2, 1, 1, 1, 2]",4.0725161048675425,0.20362580524337712
+161,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,161,5,1.0,82.0,0.0,"[2, 2, 1, 1, 1, 2]",4.102599057331275,0.20512995286656377
+162,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,162,5,1.0,83.0,0.0,"[2, 2, 1, 1, 1, 2]",4.13231676879523,0.20661583843976147
+163,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,163,1,0.0,83.0,0.0,"[2, 1]",4.138484425574716,0.2069242212787358
+164,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,164,5,1.0,84.0,0.001065969467163086,"[2, 2, 1, 1, 1, 2]",4.167527900669623,0.20837639503348115
+165,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,165,5,1.0,85.0,0.0,"[2, 2, 1, 1, 1, 2]",4.196220451564619,0.20981102257823095
+166,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,166,6,1.0,86.0,0.0,"[1, 1, 0, 2, 1, 2, 2]",4.243538701431277,0.20207327149672746
+167,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,167,5,1.0,87.0,0.0,"[2, 2, 1, 1, 1, 2]",4.271877592211771,0.20342274248627482
+168,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,168,5,1.0,88.0,0.0,"[2, 2, 1, 1, 1, 2]",4.299863446149317,0.2047554021975865
+169,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,169,6,1.0,89.0,0.001001596450805664,"[2, 2, 1, 1, 1, 1, 2]",4.364720521558648,0.20784383435993561
+170,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,170,5,1.0,90.0,0.0,"[2, 2, 1, 1, 1, 2]",4.391997997063717,0.2091427617649389
+171,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,171,4,0.0,90.0,0.0,"[2, 2, 3, 1, 2]",4.437051660294409,0.21128817429973376
+172,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,172,5,1.0,91.0,0.0,"[2, 2, 1, 1, 1, 2]",4.463637721522565,0.2125541772153602
+173,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,173,5,1.0,92.0,0.0,"[2, 2, 1, 1, 1, 2]",4.489868132057362,0.2138032443836839
+174,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,174,5,1.0,93.0,0.0,"[2, 2, 1, 1, 1, 2]",4.515742827871929,0.21503537275580614
+175,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,175,5,1.0,94.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",4.541261913621886,0.2162505673153279
+176,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,176,5,1.0,95.0,0.0,"[2, 2, 1, 1, 1, 2]",4.5664256560256025,0.21744884076312393
+177,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,177,5,1.0,96.0,0.0,"[2, 2, 1, 1, 1, 2]",4.59123447768785,0.21863021322323095
+178,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,178,5,1.0,97.0,0.0,"[2, 2, 1, 1, 1, 2]",4.615688951317816,0.21979471196751504
+179,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,179,5,1.0,98.0,0.0,"[2, 2, 1, 1, 1, 2]",4.639789794296924,0.22094237115699636
+180,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,180,5,1.0,99.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",4.663537863556101,0.22207323159790957
+181,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,181,5,1.0,100.0,0.0,"[2, 2, 1, 1, 1, 2]",4.686934150726014,0.22318734051076256
+182,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,182,5,1.0,101.0,0.0,"[2, 2, 1, 1, 1, 2]",4.70997977752741,0.22428475131082906
+183,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,183,5,1.0,102.0,0.0,"[2, 2, 1, 1, 1, 2]",4.732675991372037,0.22536552339866844
+184,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,184,5,1.0,103.0,0.0,"[2, 2, 1, 1, 1, 2]",4.755024161147693,0.22642972195941397
+185,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,185,5,1.0,104.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",4.777025773163818,0.22747741776970565
+186,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,186,5,1.0,105.0,0.0,"[2, 2, 1, 1, 1, 2]",4.79868242723668,0.22850868701127047
+187,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,187,5,1.0,106.0,0.0,"[2, 2, 1, 1, 1, 2]",4.819995832895571,0.22952361109026528
+188,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,188,5,1.0,107.0,0.0,"[2, 2, 1, 1, 1, 2]",4.840967805693728,0.23052227646160608
+189,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,189,5,1.0,108.0,0.0,"[2, 2, 1, 1, 1, 2]",4.861600263609643,0.23150477445760204
+190,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,190,5,1.0,109.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",4.881895223526352,0.23247120112030248
+191,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,191,5,1.0,110.0,0.0,"[2, 2, 1, 1, 1, 2]",4.901854797777929,0.23342165703704426
+192,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,192,5,1.0,111.0,0.0,"[2, 2, 1, 1, 1, 2]",4.921481190753999,0.23435624717876186
+193,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,193,5,1.0,112.0,0.0,"[2, 2, 1, 1, 1, 2]",4.940776695554463,0.23527508074068873
+194,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,194,5,1.0,113.0,0.0,"[2, 2, 1, 1, 1, 2]",4.959743690687896,0.23617827098513788
+195,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,195,5,1.0,114.0,0.0,"[2, 2, 1, 1, 1, 2]",4.9783846368082,0.23706593508610477
+196,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,196,5,1.0,115.0,0.0009984970092773438,"[2, 2, 1, 1, 1, 2]",4.996702073485189,0.23793819397548516
+197,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,197,5,1.0,116.0,0.0,"[2, 2, 1, 1, 1, 2]",5.014698616005601,0.23879517219074292
+198,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,198,5,1.0,117.0,0.0,"[2, 2, 1, 1, 1, 2]",5.03237695220196,0.23963699772390287
+199,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,199,5,1.0,118.0,0.0,"[2, 2, 1, 1, 1, 2]",5.04973983930734,0.2404638018717781
+200,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,200,7,1.0,119.0,0.0,"[2, 2, 1, 1, 1, 3, 1, 2]",5.111221823080104,0.24339151538476686
+201,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,201,7,1.0,120.0,0.0009999275207519531,"[2, 2, 1, 1, 3, 1, 1, 2]",5.170233326797983,0.23501060576354468
+202,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,202,5,1.0,121.0,0.0,"[2, 2, 1, 1, 1, 2]",5.186660611693333,0.23575730053151514
+203,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,203,5,1.0,122.0,0.0,"[2, 2, 1, 1, 1, 2]",5.2027841244978195,0.23649018747717362
+204,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,204,5,1.0,123.0,0.0,"[2, 2, 1, 1, 1, 2]",5.2186069230780685,0.23720940559445766
+205,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,205,5,1.0,124.0,0.0,"[2, 2, 1, 1, 1, 2]",5.23413210654195,0.23791509575190684
+206,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,206,5,1.0,125.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",5.24936281409279,0.23860740064058136
+207,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,207,5,1.0,126.0,0.0,"[2, 2, 1, 1, 1, 2]",5.264302223701663,0.23928646471371195
+208,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,208,5,1.0,127.0,0.0,"[2, 2, 1, 1, 1, 2]",5.278953550618456,0.23995243411902073
+209,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,209,5,1.0,128.0,0.0,"[2, 2, 1, 1, 1, 2]",5.293320045740965,0.24060545662458932
+210,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,210,5,1.0,129.0,0.0,"[2, 2, 1, 1, 1, 2]",5.3074049938600405,0.24124568153909276
+211,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,211,5,1.0,130.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",5.32121171179755,0.24187325962716136
+212,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,212,6,1.0,131.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",5.358585085731417,0.24357204935142807
+213,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,213,6,1.0,132.0,0.0,"[0, 2, 2, 1, 1, 1, 2]",5.3966856895659925,0.24530389498027239
+214,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,214,5,1.0,133.0,0.0,"[2, 2, 1, 1, 1, 2]",5.409677908447366,0.24589445038397117
+215,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,215,5,1.0,134.0,0.0,"[2, 2, 1, 1, 1, 2]",5.4224054445969925,0.24647297475440874
+216,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,216,5,1.0,135.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",5.4348717443432335,0.24703962474287425
+217,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,217,7,1.0,136.0,6.890296936035156e-05,"[1, 0, 1, 0, 2, 1, 2, 2]",5.482056401663216,0.22841901673596732
+218,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,218,5,1.0,137.0,0.0,"[2, 2, 1, 1, 1, 2]",5.49426480783064,0.22892770032627666
+219,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,219,5,1.0,138.0,0.0,"[2, 2, 1, 1, 1, 2]",5.506218926552838,0.22942578860636823
+220,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,220,5,1.0,139.0,0.0,"[2, 2, 1, 1, 1, 2]",5.5179222556766145,0.22991342731985895
+221,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,221,5,1.0,140.0,0.0,"[2, 2, 1, 1, 1, 2]",5.529378305738812,0.23039076273911718
+222,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,222,5,1.0,141.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",5.540590597728495,0.23085794157202064
+223,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,223,5,1.0,142.0,0.0,"[2, 2, 1, 1, 1, 2]",5.551562660861687,0.23131511086923695
+224,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,224,5,1.0,143.0,0.0,"[2, 2, 1, 1, 1, 2]",5.562298030375187,0.23176241793229946
+225,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,225,5,1.0,144.0,0.0,"[2, 2, 1, 1, 1, 2]",5.572800245345397,0.23220001022272488
+226,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,226,5,1.0,145.0,0.0,"[2, 2, 1, 1, 1, 2]",5.583072846537511,0.23262803527239628
+227,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,227,7,1.0,146.0,0.00099945068359375,"[2, 2, 1, 1, 1, 0, 2, 2]",5.640181137988225,0.22560724551952901
+228,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,228,5,1.0,147.0,0.0,"[2, 2, 1, 1, 1, 2]",5.650005130136181,0.22600020520544725
+229,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,229,5,1.0,148.0,0.0,"[2, 2, 1, 1, 1, 2]",5.65961011997927,0.2263844047991708
+230,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,230,5,1.0,149.0,0.0,"[2, 2, 1, 1, 1, 2]",5.668999634295133,0.22675998537180533
+231,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,231,6,1.0,150.0,0.0,"[0, 2, 2, 1, 1, 1, 2]",5.705379781716164,0.22821519126864653
+232,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,232,5,1.0,151.0,0.0010006427764892578,"[2, 2, 1, 1, 1, 2]",5.714348889593414,0.22857395558373658
+233,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,233,7,1.0,152.0,0.0,"[2, 2, 1, 1, 3, 1, 1, 2]",5.763820343036922,0.2305528137214769
+234,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,234,5,1.0,153.0,0.0,"[2, 2, 1, 1, 1, 2]",5.772381550772733,0.23089526203090935
+235,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,235,5,1.0,154.0,0.0,"[2, 2, 1, 1, 1, 2]",5.780744756832692,0.23122979027330767
+236,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,236,5,1.0,155.0,0.0,"[2, 2, 1, 1, 1, 2]",5.788913410093656,0.23155653640374624
+237,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,237,7,1.0,156.0,0.0009992122650146484,"[2, 2, 1, 3, 1, 1, 1, 2]",5.836902196183176,0.23347608784732704
+238,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,238,5,1.0,157.0,0.0,"[2, 2, 1, 1, 1, 2]",5.844688797110802,0.23378755188443207
+239,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,239,5,1.0,158.0,0.0,"[2, 2, 1, 1, 1, 2]",5.852291064683305,0.2340916425873322
+240,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,240,5,1.0,159.0,0.0,"[2, 2, 1, 1, 1, 2]",5.859712217114113,0.23438848868456452
+241,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,241,5,1.0,160.0,0.0,"[2, 2, 1, 1, 1, 2]",5.866955467895472,0.23467821871581887
+242,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,242,5,1.0,161.0,0.0010006427764892578,"[2, 2, 1, 1, 1, 2]",5.874024022745831,0.23496096090983326
+243,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,243,5,1.0,162.0,0.0,"[2, 2, 1, 1, 1, 2]",5.880921076746815,0.2352368430698726
+244,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,244,5,1.0,163.0,0.0,"[2, 2, 1, 1, 1, 2]",5.8876498116614036,0.23550599246645615
+245,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,245,7,1.0,164.0,0.0,"[2, 2, 1, 3, 1, 1, 1, 2]",5.932432742585463,0.2372973097034185
+246,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,246,5,1.0,165.0,0.0,"[2, 2, 1, 1, 1, 2]",5.938831962783659,0.2375532785113464
+247,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,247,7,1.0,166.0,0.00099945068359375,"[2, 0, 2, 2, 1, 1, 1, 2]",5.979084280581317,0.22996478002235834
+248,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,248,5,1.0,167.0,0.0,"[2, 2, 1, 1, 1, 2]",5.985028493392253,0.23019340359200974
+249,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,249,5,1.0,168.0,0.0,"[2, 2, 1, 1, 1, 2]",5.990826846600227,0.2304164171769318
+250,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,250,5,1.0,169.0,0.0,"[2, 2, 1, 1, 1, 2]",5.996481972476882,0.23063392201834162
+251,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,251,5,1.0,170.0,0.0,"[2, 2, 1, 1, 1, 2]",6.001996505599277,0.23084601944612604
+252,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,252,5,1.0,171.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.007373079173295,0.23105281073743442
+253,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,253,5,1.0,172.0,0.0,"[2, 2, 1, 1, 1, 2]",6.012614321631197,0.2312543969858153
+254,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,254,5,1.0,173.0,0.0,"[2, 2, 1, 1, 1, 2]",6.017722853487031,0.23145087898027045
+255,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,255,5,1.0,174.0,0.0,"[2, 2, 1, 1, 1, 2]",6.022701284434484,0.23164235709363398
+256,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,256,6,1.0,175.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",6.057922386843673,0.2329970148786028
+257,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,257,5,1.0,176.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.062648388617484,0.23317878417759555
+258,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,258,5,1.0,177.0,0.0,"[2, 2, 1, 1, 1, 2]",6.067252027958814,0.23335584722918515
+259,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,259,5,1.0,178.0,0.0,"[2, 2, 1, 1, 1, 2]",6.071735846617551,0.23352830179298273
+260,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,260,5,1.0,179.0,0.0,"[2, 2, 1, 1, 1, 2]",6.07610236417009,0.2336962447757727
+261,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,261,5,1.0,180.0,0.0,"[2, 2, 1, 1, 1, 2]",6.080354076294849,0.23385977216518652
+262,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,262,5,1.0,181.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.08449345320453,0.234018978969405
+263,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,263,5,1.0,182.0,0.0,"[2, 2, 1, 1, 1, 2]",6.088522938225504,0.23417395916251937
+264,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,264,5,1.0,183.0,0.0,"[2, 2, 1, 1, 1, 2]",6.092444946515244,0.2343248056352017
+265,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,265,5,1.0,184.0,0.0,"[2, 2, 1, 1, 1, 2]",6.096261863909241,0.23447161015035542
+266,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,266,5,1.0,185.0,0.0,"[2, 2, 1, 1, 1, 2]",6.099976045889298,0.23461446330343455
+267,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,267,5,1.0,186.0,0.0,"[2, 2, 1, 1, 1, 2]",6.103589816665615,0.23475345448713902
+268,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,268,5,1.0,187.0,6.794929504394531e-05,"[2, 2, 1, 1, 1, 2]",6.107105468365455,0.23488867186020979
+269,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,269,5,1.0,188.0,0.0,"[2, 2, 1, 1, 1, 2]",6.110525260321607,0.2350202023200618
+270,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,270,5,1.0,189.0,0.0,"[2, 2, 1, 1, 1, 2]",6.113851418454263,0.2351481314790101
+271,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,271,5,1.0,190.0,0.0,"[2, 2, 1, 1, 1, 2]",6.117086134740239,0.23527254364385536
+272,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,272,5,1.0,191.0,0.0,"[2, 2, 1, 1, 1, 2]",6.120231566763899,0.2353935217986115
+273,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,273,5,1.0,192.0,0.0010020732879638672,"[2, 2, 1, 1, 1, 2]",6.123289837344357,0.23551114759016759
+274,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,274,5,1.0,193.0,0.0,"[2, 2, 1, 1, 1, 2]",6.126263034233922,0.2356255013166893
+275,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,275,5,1.0,194.0,0.0,"[2, 2, 1, 1, 1, 2]",6.129153209883004,0.23573666191857706
+276,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,276,5,1.0,195.0,0.0,"[2, 2, 1, 1, 1, 2]",6.131962381266962,0.2358447069718062
+277,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,277,5,1.0,196.0,0.0,"[2, 2, 1, 1, 1, 2]",6.1346925297706605,0.23594971268348694
+278,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,278,5,1.0,197.0,0.0009989738464355469,"[2, 2, 1, 1, 1, 2]",6.137345601126709,0.23605175388948882
+279,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,279,5,1.0,198.0,0.0,"[2, 2, 1, 1, 1, 2]",6.139923505403622,0.23615090405398545
+280,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,280,5,1.0,199.0,0.0,"[2, 2, 1, 1, 1, 2]",6.142428117040308,0.23624723527078106
+281,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,281,5,1.0,200.0,0.0,"[2, 2, 1, 1, 1, 2]",6.144861274923572,0.23634081826629122
+282,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,282,5,1.0,201.0,0.0,"[2, 2, 1, 1, 1, 2]",6.147224782505409,0.23643172240405422
+283,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,283,4,0.0,201.0,0.0,"[2, 2, 1, 1, 2]",6.149501504653836,0.23651928864053215
+284,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,284,5,1.0,202.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",6.15173102831259,0.23660503955048423
+285,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,285,5,1.0,203.0,0.0,"[2, 2, 1, 1, 1, 2]",6.153896101007814,0.23668831157722361
+286,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,286,5,1.0,204.0,0.0,"[2, 2, 1, 1, 1, 2]",6.155998386321103,0.23676916870465783
+287,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,287,5,1.0,205.0,0.0,"[2, 2, 1, 1, 1, 2]",6.158039513484411,0.23684767359555428
+288,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,288,5,1.0,206.0,0.0,"[2, 2, 1, 1, 1, 2]",6.160021077683439,0.23692388760320918
+289,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,289,5,1.0,207.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",6.161944640382217,0.23699787078393142
+290,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,290,4,0.0,207.0,0.0,"[2, 2, 1, 1, 2]",6.163797466823313,0.2370691333393582
+291,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,291,5,1.0,208.0,0.0,"[2, 2, 1, 1, 1, 2]",6.165609613421534,0.2371388312854436
+292,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,292,5,1.0,209.0,0.0,"[2, 2, 1, 1, 1, 2]",6.167368244018651,0.23720647092379427
+293,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,293,5,1.0,210.0,0.0,"[2, 2, 1, 1, 1, 2]",6.169074788800392,0.23727210726155354
+294,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,294,5,1.0,211.0,0.0010013580322265625,"[2, 2, 1, 1, 1, 2]",6.170730646111467,0.23733579408121028
+295,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,295,5,1.0,212.0,0.0,"[1, 1, 2, 1, 2, 2]",6.217684325635175,0.23028460465315462
+296,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,296,5,1.0,213.0,0.0,"[2, 2, 1, 1, 1, 2]",6.219290859907136,0.2303441059224865
+297,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,297,5,1.0,214.0,0.0,"[2, 2, 1, 1, 1, 2]",6.2208494095711,0.23040182998411482
+298,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,298,5,1.0,215.0,0.0,"[2, 2, 1, 1, 1, 2]",6.222361280006831,0.2304578251854382
+299,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,299,5,1.0,216.0,0.0009989738464355469,"[2, 2, 1, 1, 1, 2]",6.22382774648703,0.2305121387587789
+300,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,300,5,1.0,217.0,0.0,"[2, 2, 1, 1, 1, 2]",6.22525005462966,0.23056481683813554
+301,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,301,5,1.0,218.0,0.0,"[2, 2, 1, 1, 1, 2]",6.226629420855841,0.23061590447614225
+302,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,302,5,1.0,219.0,0.0,"[2, 2, 1, 1, 1, 2]",6.2279670328524555,0.23066544566120206
+303,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,303,6,1.0,220.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",6.265147686529445,0.23204250690849795
+304,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,304,5,1.0,221.0,0.0,"[2, 2, 1, 1, 1, 2]",6.266405240526031,0.2320890829824456
+305,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,305,5,1.0,222.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.2676244356276225,0.23213423835657862
+306,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,306,5,1.0,223.0,0.0,"[2, 2, 1, 1, 1, 2]",6.26880634927603,0.23217801293614926
+307,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,307,5,1.0,224.0,0.0,"[2, 2, 1, 1, 1, 2]",6.2699520325348495,0.23222044564943886
+308,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,308,5,1.0,225.0,0.0,"[2, 2, 1, 1, 1, 2]",6.2710625105643905,0.2322615744653478
+309,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,309,5,1.0,226.0,0.0,"[2, 2, 1, 1, 1, 2]",6.27213878309641,0.23230143641097814
+310,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,310,5,1.0,227.0,0.0010006427764892578,"[2, 2, 1, 1, 1, 2]",6.273181824908102,0.23234006758918896
+311,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,311,5,1.0,228.0,0.0,"[2, 2, 1, 1, 1, 2]",6.27419258629485,0.23237750319610556
+312,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,312,5,1.0,229.0,0.0,"[2, 2, 1, 1, 1, 2]",6.275171993541249,0.23241377753856476
+313,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,313,5,0.0,229.0,0.0,"[3, 2, 2, 3, 1, 2]",6.345607781738917,0.2350225104347747
+314,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,314,5,1.0,230.0,0.0,"[2, 2, 1, 1, 1, 2]",6.346527241376901,0.23505656449544077
+315,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,315,5,1.0,231.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",6.347417986150198,0.23508955504259993
+316,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,316,5,1.0,232.0,0.0,"[2, 2, 1, 1, 1, 2]",6.348280850961762,0.23512151299858378
+317,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,317,5,1.0,233.0,0.0,"[2, 2, 1, 1, 1, 2]",6.349116649145575,0.23515246848687316
+318,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,318,5,1.0,234.0,0.0,"[2, 2, 1, 1, 1, 2]",6.349926172894567,0.23518245084794692
+319,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,319,5,1.0,235.0,0.0,"[2, 2, 1, 1, 1, 2]",6.350710193687261,0.23521148865508376
+320,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,320,5,1.0,236.0,0.0,"[2, 2, 1, 1, 1, 2]",6.351469462712585,0.23523960973009575
+321,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,321,1,0.0,236.0,0.0010001659393310547,"[2, 1]",6.351921472177167,0.23525635082137655
+322,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,322,5,1.0,237.0,7.033348083496094e-05,"[2, 2, 1, 1, 1, 2]",6.3526341202837395,0.23528274519569406
+323,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,323,5,1.0,238.0,0.0,"[2, 2, 1, 1, 1, 2]",6.3533245898429564,0.23530831814233172
+324,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,324,5,1.0,239.0,0.0,"[2, 2, 1, 1, 1, 2]",6.353993517197367,0.2353330932295321
+325,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,325,5,1.0,240.0,0.0,"[2, 2, 1, 1, 1, 2]",6.354641522896825,0.23535709344062317
+326,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,326,5,1.0,241.0,0.0,"[2, 2, 1, 1, 1, 2]",6.355269211966364,0.2353803411839394
+327,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,327,5,1.0,242.0,0.0010023117065429688,"[2, 2, 1, 1, 1, 2]",6.355877174176929,0.23540285830284924
+328,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,328,5,1.0,243.0,0.0,"[2, 2, 1, 1, 1, 2]",6.3564659843183575,0.2354246660858651
+329,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,329,5,1.0,244.0,0.0,"[2, 2, 1, 1, 1, 2]",6.357036202473998,0.23544578527681476
+330,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,330,8,1.0,245.0,0.0,"[2, 0, 2, 2, 1, 1, 1, 1, 2]",6.4267006234648445,0.23802594901721646
+331,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,331,5,1.0,246.0,0.0,"[2, 2, 1, 1, 1, 2]",6.427219146046799,0.23804515355728884
+332,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,332,7,1.0,247.0,0.0009987354278564453,"[2, 2, 0, 2, 1, 1, 1, 2]",6.465650230558797,0.23946852705773322
+333,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,333,5,1.0,248.0,0.0,"[2, 2, 1, 1, 1, 2]",6.466136508999481,0.23948653737035117
+334,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,334,5,1.0,249.0,0.0,"[2, 2, 1, 1, 1, 2]",6.466607218849979,0.23950397106851773
+335,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,335,3,0.0,249.0,0.0,"[2, 2, 1, 2]",6.4670500435502625,0.23952037198334306
+336,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,336,5,1.0,250.0,0.0,"[2, 2, 1, 1, 1, 2]",6.467491049352929,0.23953670553158996
+337,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,337,5,1.0,251.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",6.467917861489088,0.23955251338848474
+338,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,338,5,1.0,252.0,0.0,"[2, 2, 1, 1, 1, 2]",6.468330912683701,0.2395678115808778
+339,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,339,5,1.0,253.0,0.0,"[2, 2, 1, 1, 1, 2]",6.468730623450273,0.23958261568334344
+340,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,340,6,1.0,254.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",6.501502880078598,0.24079640296587398
+341,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,341,5,1.0,255.0,0.0,"[2, 2, 1, 1, 1, 2]",6.5018771241899485,0.24081026385888699
+342,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,342,5,1.0,256.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",6.50223921914105,0.24082367478300185
+343,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,343,5,1.0,257.0,0.0,"[2, 2, 1, 1, 1, 2]",6.502589539568362,0.24083664961364304
+344,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,344,1,0.0,257.0,0.0,"[2, 1]",6.502804486187979,0.24084461059955478
+345,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,345,5,1.0,258.0,0.0,"[2, 2, 1, 1, 1, 2]",6.503132648642628,0.2408567647645418
+346,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,346,5,1.0,259.0,0.0,"[2, 2, 1, 1, 1, 2]",6.50345029122493,0.24086852930462704
+347,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,347,5,1.0,260.0,0.0,"[2, 2, 1, 1, 1, 2]",6.503757730259592,0.24087991593554042
+348,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,348,5,1.0,261.0,0.0010008811950683594,"[2, 2, 1, 1, 1, 2]",6.504055273469113,0.24089093605441161
+349,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,349,5,1.0,262.0,0.0,"[2, 2, 1, 1, 1, 2]",6.504343220165345,0.24090160074686462
+350,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,350,5,1.0,263.0,0.0,"[2, 2, 1, 1, 1, 2]",6.504621861439009,0.24091192079403737
+351,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,351,7,1.0,264.0,0.0,"[2, 2, 0, 2, 1, 1, 1, 2]",6.540954176705974,0.24225756210022123
+352,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,352,5,1.0,265.0,0.0,"[2, 2, 1, 1, 1, 2]",6.541214882161104,0.24226721785781868
+353,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,353,5,1.0,266.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",6.541466958335318,0.2422765540124192
+354,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,354,5,1.0,267.0,0.0,"[2, 2, 1, 1, 1, 2]",6.54171068066783,0.24228558076547518
+355,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,355,6,1.0,268.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",6.572712576201521,0.24343379911857485
+356,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,356,5,1.0,269.0,0.0,"[2, 2, 1, 1, 1, 2]",6.572940383533596,0.24344223642717022
+357,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,357,5,1.0,270.0,0.0,"[2, 2, 1, 1, 1, 2]",6.573160613514738,0.24345039309313846
+358,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,358,5,1.0,271.0,0.0,"[2, 2, 1, 1, 1, 2]",6.573373509184884,0.24345827811795864
+359,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,359,5,1.0,272.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.5735793060799415,0.24346590022518302
+360,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,360,5,1.0,273.0,0.0,"[2, 2, 1, 1, 1, 2]",6.573778232456044,0.24347326786874235
+361,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,361,5,1.0,274.0,0.0,"[2, 2, 1, 1, 1, 2]",6.5739705095071495,0.24348038924100554
+362,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,362,5,1.0,275.0,0.0,"[2, 2, 1, 1, 1, 2]",6.574156351576214,0.24348727228060052
+363,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,363,5,1.0,276.0,0.0,"[2, 2, 1, 1, 1, 2]",6.574335966360112,0.24349392468000416
+364,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,364,5,1.0,277.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.5745095551085235,0.24350035389290828
+365,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,365,5,1.0,278.0,0.0,"[2, 2, 1, 1, 1, 2]",6.574677312816948,0.24350656714136842
+366,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,366,7,1.0,279.0,0.0,"[2, 2, 1, 1, 1, 3, 1, 2]",6.617155679428775,0.24507983997884353
+367,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,367,5,1.0,280.0,0.0,"[2, 2, 1, 1, 1, 2]",6.617312334832818,0.24508564203084512
+368,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,368,5,1.0,281.0,0.0,"[2, 2, 1, 1, 1, 2]",6.617463708507187,0.24509124846322916
+369,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,369,5,1.0,282.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.617609972249853,0.24509666563888344
+370,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,370,5,1.0,283.0,0.0,"[2, 2, 1, 1, 1, 2]",6.617751292487897,0.24510189972177396
+371,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,371,5,1.0,284.0,0.0,"[2, 2, 1, 1, 1, 2]",6.617887830438832,0.2451069566829197
+372,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,372,5,1.0,285.0,0.0,"[2, 2, 1, 1, 1, 2]",6.618019742267213,0.2451118423061931
+373,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,373,5,1.0,286.0,0.0,"[2, 2, 1, 1, 1, 2]",6.618147179236701,0.24511656219395186
+374,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,374,5,1.0,287.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",6.6182702878576904,0.24512112177250706
+375,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,375,5,1.0,288.0,6.747245788574219e-05,"[2, 2, 1, 1, 1, 2]",6.61838921003064,0.2451255262974311
+376,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,376,5,1.0,289.0,0.0,"[2, 2, 1, 1, 1, 2]",6.618504083185218,0.2451297808587118
+377,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,377,5,1.0,290.0,0.0,"[2, 2, 1, 1, 1, 2]",6.6186150404154125,0.24513389038575603
+378,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,378,5,1.0,291.0,0.0,"[2, 2, 1, 1, 1, 2]",6.618722210610675,0.24513785965224721
+379,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,379,5,1.0,292.0,0.0,"[2, 2, 1, 1, 1, 2]",6.6188257185832695,0.24514169328086183
+380,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,380,7,1.0,293.0,0.001001596450805664,"[2, 0, 2, 2, 1, 1, 1, 2]",6.652358743081173,0.24638365715115457
+381,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,381,5,1.0,294.0,0.0,"[2, 2, 1, 1, 1, 2]",6.652452110928616,0.24638711521957837
+382,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,382,5,1.0,295.0,0.0,"[2, 2, 1, 1, 1, 2]",6.652542326466407,0.24639045653579286
+383,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,383,7,1.0,296.0,0.0,"[2, 2, 1, 1, 3, 1, 1, 2]",6.69147322410061,0.24783234163335593
+384,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,384,5,1.0,297.0,0.0,"[2, 2, 1, 1, 1, 2]",6.691557433751059,0.24783546050929847
+385,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,385,5,1.0,298.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",6.691638787199489,0.24783847359998107
+386,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,386,5,1.0,299.0,0.0,"[2, 2, 1, 1, 1, 2]",6.691717377180038,0.2478413843400014
+387,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,387,5,1.0,300.0,0.0,"[2, 2, 1, 1, 1, 2]",6.691793293576325,0.2478441960583824
+388,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,388,5,1.0,301.0,0.0,"[2, 2, 1, 1, 1, 2]",6.691866623503361,0.24784691198160597
+389,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,389,5,1.0,302.0,0.0,"[2, 2, 1, 1, 1, 2]",6.691937451387283,0.24784953523656605
+390,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,390,6,1.0,303.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 1, 2]",6.721233850785068,0.24893458706611363
+391,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,391,7,1.0,304.0,0.0,"[2, 2, 1, 1, 3, 1, 1, 2]",6.7582015711405266,0.2503037618940936
+392,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,392,5,1.0,305.0,0.0,"[2, 2, 1, 1, 1, 2]",6.758265371397273,0.25030612486656567
+393,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,393,5,1.0,306.0,0.0,"[2, 2, 1, 1, 1, 2]",6.758326981953493,0.2503084067390183
+394,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,394,5,1.0,307.0,0.0,"[2, 2, 1, 1, 1, 2]",6.758386474914073,0.25031061018200274
+395,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,395,5,1.0,308.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",6.75844392012575,0.2503127377824352
+396,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,396,6,1.0,309.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",6.793863873364252,0.2516245879023797
+397,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,397,5,1.0,310.0,0.0,"[2, 2, 1, 1, 1, 2]",6.79391742391814,0.2516265712562274
+398,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,398,7,1.0,311.0,0.0,"[2, 2, 1, 1, 3, 1, 1, 2]",6.829025764044387,0.25292688014979214
+399,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,399,5,1.0,312.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829075672248328,0.2529287286017899
+400,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,400,5,1.0,313.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",6.829123850343621,0.2529305129756897
+401,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,401,5,1.0,314.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829170355967598,0.25293223540620735
+402,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,402,5,1.0,315.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829215244926185,0.2529338979602291
+403,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,403,5,1.0,316.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829258571249255,0.25293550263886133
+404,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,404,5,1.0,317.0,0.0,"[2, 2, 1, 1, 1, 2]",6.8293003872443485,0.2529370513794203
+405,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,405,5,1.0,318.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",6.829340743548819,0.25293854605736366
+406,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,406,5,1.0,319.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829379689180457,0.25293998848816507
+407,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,407,5,1.0,320.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829417271586623,0.25294138042913417
+408,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,408,5,1.0,321.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829453536691963,0.2529427235811838
+409,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,409,5,1.0,322.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829488528944721,0.25294401959054524
+410,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,410,5,1.0,323.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 2]",6.829522291361712,0.25294527005043377
+411,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,411,5,1.0,324.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829554865571984,0.25294647650266605
+412,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,412,5,1.0,325.0,0.0,"[2, 2, 1, 1, 1, 2]",6.82958629185921,0.25294764043922996
+413,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,413,5,1.0,326.0,0.0,"[2, 2, 1, 1, 1, 2]",6.82961660920286,0.25294876330380967
+414,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,414,5,1.0,327.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829645855318163,0.2529498464932653
+415,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,415,5,1.0,328.0,0.0,"[2, 2, 1, 1, 1, 2]",6.829674066694921,0.2529508913590712
+416,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,416,5,1.0,329.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",6.829701278635186,0.2529518992087106
+417,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,417,5,1.0,330.0,0.0,"[2, 2, 1, 1, 1, 2]",6.8297275252898535,0.2529528713070316
+418,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,418,6,1.0,331.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",6.863351814500837,0.25419821535188286
+419,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,419,5,1.0,332.0,0.0,"[2, 2, 1, 1, 1, 2]",6.863376228608946,0.2541991195781091
+420,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,420,5,1.0,333.0,0.0,"[2, 2, 1, 1, 1, 2]",6.863399773327298,0.25419999160471474
+421,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,421,5,1.0,334.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",6.8634224785472115,0.2542008325387856
+422,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,422,5,1.0,335.0,0.0,"[2, 2, 1, 1, 1, 2]",6.863444373176433,0.254201643450979
+423,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,423,5,1.0,336.0,0.0,"[2, 2, 1, 1, 1, 2]",6.863465485169769,0.2542024253766581
+424,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,424,6,1.0,337.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",6.89540526267029,0.25538538009889966
+425,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,425,5,1.0,338.0,0.0,"[2, 2, 1, 1, 1, 2]",6.8954248895924115,0.25538610702194114
+426,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,426,5,1.0,339.0,0.0010883808135986328,"[2, 2, 1, 1, 1, 2]",6.895443812318607,0.25538680786365214
+427,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,427,5,1.0,340.0,0.0,"[2, 2, 1, 1, 1, 2]",6.89546205528083,0.2553874835289196
+428,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,428,7,1.0,341.0,0.0,"[2, 2, 3, 1, 1, 1, 1, 2]",6.95356990435785,0.2575396260873278
+429,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,429,5,1.0,342.0,0.0,"[2, 2, 1, 1, 1, 2]",6.95358685786292,0.257540253994923
+430,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,430,5,1.0,343.0,0.0,"[2, 2, 1, 1, 1, 2]",6.9536032001255945,0.2575408592639109
+431,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,431,5,1.0,344.0,0.0010013580322265625,"[2, 2, 1, 1, 1, 2]",6.953618952477896,0.2575414426843665
+432,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,432,5,1.0,345.0,0.0,"[2, 2, 1, 1, 1, 2]",6.953634135537228,0.2575420050198973
+433,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,433,5,1.0,346.0,0.0,"[2, 2, 1, 1, 1, 2]",6.953648769229092,0.2575425470084849
+434,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,434,5,1.0,347.0,0.0,"[2, 2, 1, 1, 1, 2]",6.953662872809143,0.25754306936330157
+435,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,435,5,1.0,348.0,0.0,"[2, 2, 1, 1, 1, 2]",6.953676464884568,0.25754357277350254
+436,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,436,5,1.0,349.0,0.0,"[2, 2, 1, 1, 1, 2]",6.953689563434843,0.2575440579049942
+437,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,437,6,1.0,350.0,0.0009989738464355469,"[2, 3, 2, 1, 1, 1, 2]",6.991862640412691,0.25895787557084043
+438,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,438,7,1.0,351.0,0.0,"[2, 0, 2, 2, 1, 1, 1, 2]",7.023662924518951,0.2601356638710723
+439,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,439,5,1.0,352.0,0.0,"[2, 2, 1, 1, 1, 2]",7.023674231644598,0.26013608265350363
+440,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,440,5,1.0,353.0,0.0,"[2, 2, 1, 1, 1, 2]",7.023685131916782,0.2601364863672882
+441,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,441,5,1.0,354.0,0.0,"[2, 2, 1, 1, 1, 2]",7.023695639434598,0.26013687553461473
+442,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,442,5,1.0,355.0,0.0,"[2, 2, 1, 1, 1, 2]",7.02370576783304,0.260137250660483
+443,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,443,5,1.0,356.0,0.0,"[2, 2, 1, 1, 1, 2]",7.023715530297172,0.26013761223322857
+444,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,444,5,1.0,357.0,0.0,"[2, 2, 1, 1, 1, 2]",7.023724939575896,0.2601379607250332
+445,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,445,4,0.0,357.0,0.0,"[1, 1, 3, 1, 1]",7.023851597906799,0.2508518427823857
+446,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,446,5,1.0,358.0,0.0,"[2, 2, 1, 1, 1, 2]",7.023860666326275,0.2508521666545098
+447,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,447,3,0.0,358.0,0.0009999275207519531,"[2, 2, 1, 0]",7.023869319201041,0.2508524756857515
+448,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,448,6,1.0,359.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",7.050256012030012,0.2517948575725004
+449,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,449,5,1.0,360.0,0.0,"[2, 2, 1, 1, 1, 2]",7.050264128010689,0.25179514742895315
+450,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,450,5,1.0,361.0,0.0,"[2, 2, 1, 1, 1, 2]",7.050271948464278,0.2517954267308671
+451,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,451,5,1.0,362.0,0.0,"[2, 2, 1, 1, 1, 2]",7.050279483792199,0.2517956958497214
+452,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,452,7,1.0,363.0,0.0009999275207519531,"[2, 2, 1, 1, 3, 1, 1, 2]",7.083590641245659,0.25298538004448784
+453,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,453,5,1.0,364.0,0.0,"[2, 2, 1, 1, 1, 2]",7.0835976359881565,0.25298562985671985
+454,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,454,5,1.0,365.0,0.0,"[2, 2, 1, 1, 1, 2]",7.08360437475676,0.25298587052702715
+455,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,455,5,1.0,366.0,0.0,"[2, 2, 1, 1, 1, 2]",7.083610866619788,0.25298610237927815
+456,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,456,5,1.0,367.0,0.0,"[2, 2, 1, 1, 1, 2]",7.0836171203378395,0.25298632572635144
+457,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,457,7,1.0,368.0,0.0009999275207519531,"[2, 2, 0, 2, 1, 1, 1, 2]",7.117908838358583,0.25421102994137795
+458,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,458,5,1.0,369.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117914637748683,0.25421123706245297
+459,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,459,5,1.0,370.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117920220702154,0.25421143645364835
+460,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,460,5,1.0,371.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117925595134424,0.254211628397658
+461,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,461,5,1.0,372.0,0.0,"[2, 2, 1, 1, 1, 2]",7.11793076867759,0.2542118131670568
+462,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,462,5,1.0,373.0,0.0,"[2, 2, 1, 1, 1, 2]",7.11793574869036,0.2542119910246557
+463,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,463,5,1.0,374.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.11794054226764,0.2542121622238443
+464,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,464,5,1.0,375.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117945156249798,0.2542123270089213
+465,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,465,5,1.0,376.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117949597231615,0.2542124856154148
+466,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,466,5,1.0,377.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117953871570901,0.2542126382703893
+467,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,467,5,1.0,378.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117957985396844,0.25421278519274443
+468,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,468,5,1.0,379.0,0.0010013580322265625,"[2, 2, 1, 1, 1, 2]",7.1179619446180435,0.25421292659350153
+469,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,469,5,1.0,380.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117965754930281,0.25421306267608146
+470,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,470,5,1.0,381.0,0.0,"[2, 2, 1, 1, 1, 2]",7.11796942182402,0.25421319363657213
+471,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,471,5,1.0,382.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117972950591641,0.2542133196639872
+472,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,472,5,1.0,383.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117976346334433,0.25421344094051546
+473,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,473,5,1.0,384.0,0.0009984970092773438,"[2, 2, 1, 1, 1, 2]",7.117979613969338,0.25421355764176207
+474,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,474,5,1.0,385.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117982758235461,0.25421366993698075
+475,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,475,5,1.0,386.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1179857837003615,0.2542137779892986
+476,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,476,5,1.0,387.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117988694766124,0.25421388195593303
+477,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,477,5,1.0,388.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1179914956752075,0.2542139819884003
+478,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,478,5,1.0,389.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117994190516113,0.2542140782327183
+479,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,479,5,1.0,390.0,0.0010671615600585938,"[2, 2, 1, 1, 1, 2]",7.117996783228837,0.25421417082960135
+480,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,480,5,1.0,391.0,0.0,"[2, 2, 1, 1, 1, 2]",7.117999277610143,0.25421425991464797
+481,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,481,5,1.0,392.0,0.0,"[2, 2, 1, 1, 1, 2]",7.118001677318649,0.2542143456185232
+482,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,482,5,1.0,393.0,0.0,"[2, 2, 1, 1, 1, 2]",7.118003985879739,0.2542144280671335
+483,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,483,3,0.0,393.0,0.0,"[2, 2, 1, 0]",7.118006189897063,0.25421450678203794
+484,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,484,5,1.0,394.0,0.0,"[2, 2, 1, 1, 1, 2]",7.118008326272056,0.25421458308114486
+485,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,485,5,1.0,395.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",7.118010381322859,0.25421465647581637
+486,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,486,5,1.0,396.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1180123580876975,0.2542147270745606
+487,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,487,5,1.0,397.0,0.0,"[2, 2, 1, 1, 1, 2]",7.118014259493751,0.2542147949819197
+488,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,488,5,1.0,398.0,0.0,"[2, 2, 1, 1, 1, 2]",7.118016088361104,0.25421486029861085
+489,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,489,5,1.0,399.0,0.0,"[2, 2, 1, 1, 1, 2]",7.118017847406566,0.2542149231216631
+490,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,490,5,1.0,400.0,0.0009992122650146484,"[2, 2, 1, 1, 1, 2]",7.118019539247358,0.2542149835445485
+491,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,491,6,1.0,401.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",7.149681508668935,0.25534576816674764
+492,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,492,5,1.0,402.0,0.0,"[2, 2, 1, 1, 1, 2]",7.149683073571364,0.2553458240561201
+493,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,493,5,1.0,403.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1496845785582295,0.25534587780565104
+494,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,494,5,1.0,404.0,0.0,"[2, 2, 1, 1, 1, 2]",7.149686025882778,0.2553459294958135
+495,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,495,7,1.0,405.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 3, 1, 2]",7.189887885127824,0.25678171018313656
+496,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,496,5,1.0,406.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189889223556089,0.25678175798414604
+497,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,497,5,1.0,407.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1898905105956805,0.25678180394984573
+498,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,498,5,1.0,408.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189891748185377,0.25678184814947774
+499,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,499,5,1.0,409.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1898929381922905,0.2567818906497247
+500,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,500,5,1.0,410.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",7.1898940824144475,0.2567819315148017
+501,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,501,5,1.0,411.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189895182583287,0.25678197080654597
+502,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,502,5,1.0,412.0,0.0,"[2, 2, 1, 1, 1, 2]",7.18989624036607,0.2567820085845025
+503,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,503,5,1.0,413.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189897257368203,0.25678204490600726
+504,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,504,5,1.0,414.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189898235135479,0.2567820798262671
+505,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,505,5,1.0,415.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.189899175156237,0.25678211339843704
+506,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,506,3,0.0,415.0,0.0,"[2, 2, 1, 2]",7.189900072778984,0.2567821454563923
+507,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,507,5,1.0,416.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189900941567486,0.2567821764845531
+508,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,508,5,1.0,417.0,0.0009992122650146484,"[2, 2, 1, 1, 1, 2]",7.189901776750237,0.2567822063125085
+509,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,509,5,1.0,418.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189902579605911,0.2567822349859254
+510,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,510,5,1.0,419.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189903351365474,0.2567822625487669
+511,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,511,5,1.0,420.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189904093213928,0.2567822890433546
+512,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,512,5,1.0,421.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189904806291981,0.2567823145104279
+513,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,513,5,1.0,422.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189905491697667,0.2567823389892024
+514,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,514,5,1.0,423.0,0.0009989738464355469,"[2, 2, 1, 1, 1, 2]",7.189906150487902,0.2567823625174251
+515,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,515,5,1.0,424.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189906783679988,0.25678238513142815
+516,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,516,5,1.0,425.0,0.0,"[2, 2, 1, 1, 1, 2]",7.18990739225307,0.2567824068661811
+517,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,517,5,1.0,426.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189907977149525,0.25678242775534016
+518,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,518,5,1.0,427.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189908539276319,0.2567824478312971
+519,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,519,5,1.0,428.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189909079506304,0.2567824671252251
+520,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,520,5,1.0,429.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.189909598679476,0.25678248566712414
+521,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,521,5,1.0,430.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189910097604184,0.2567825034858637
+522,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,522,5,1.0,431.0,0.0,"[2, 2, 1, 1, 1, 2]",7.1899105770582885,0.2567825206092246
+523,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,523,5,1.0,432.0,0.0,"[2, 2, 1, 1, 1, 2]",7.189911037790302,0.25678253706393933
+524,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,524,5,0.0,432.0,0.0,"[2, 2, 1, 1, 3, 0]",7.221550187581966,0.2579125066993559
+525,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,525,5,1.0,433.0,0.0,"[2, 2, 1, 1, 1, 2]",7.2215506130039255,0.25791252189299735
+526,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,526,5,1.0,434.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.221551021783829,0.2579125364922796
+527,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,527,5,1.0,435.0,0.0,"[2, 2, 1, 1, 1, 2]",7.221551414563217,0.2579125505201149
+528,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,528,9,1.0,436.0,0.0,"[2, 2, 1, 1, 0, 0, 2, 1, 2, 2]",7.269495794054139,0.25067226876048754
+529,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,529,5,1.0,437.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269496156661316,0.25067228126418334
+530,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,530,5,1.0,438.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269496505050315,0.25067229327759705
+531,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,531,5,1.0,439.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 2]",7.269496839770717,0.2506723048196799
+532,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,532,5,1.0,440.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269497161351215,0.2506723159086626
+533,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,533,1,0.0,440.0,0.0,"[2, 1]",7.269497400714202,0.2506723241625587
+534,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,534,5,1.0,441.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269497697695222,0.2506723344032835
+535,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,535,5,1.0,442.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269497983132536,0.25067234424594953
+536,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,536,5,1.0,443.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269498257466794,0.2506723537057515
+537,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,537,5,1.0,444.0,0.001047372817993164,"[2, 2, 1, 1, 1, 2]",7.269498521122203,0.25067236279731736
+538,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,538,5,1.0,445.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269498774507115,0.2506723715347281
+539,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,539,5,1.0,446.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269499018014607,0.2506723799315382
+540,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,540,5,1.0,447.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269499252023039,0.25067238800079444
+541,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,541,5,1.0,448.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269499476896582,0.25067239575505457
+542,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,542,5,1.0,449.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269499692985743,0.25067240320640494
+543,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,543,5,1.0,450.0,0.001001119613647461,"[2, 2, 1, 1, 1, 2]",7.269499900627862,0.25067241036647797
+544,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,544,5,1.0,451.0,0.0,"[2, 2, 1, 1, 1, 2]",7.26950010014759,0.2506724172464686
+545,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,545,5,1.0,452.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269500291857358,0.2506724238571503
+546,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,546,5,1.0,453.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269500476057824,0.25067243020889046
+547,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,547,5,1.0,454.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269500653038305,0.2506724363116657
+548,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,548,5,1.0,455.0,0.0,"[2, 2, 1, 1, 1, 2]",7.269500823077192,0.25067244217507556
+549,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,549,7,1.0,456.0,0.00099945068359375,"[2, 2, 1, 1, 0, 1, 2, 2]",7.316166521067554,0.25228160417474327
+550,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,550,5,1.0,457.0,0.0,"[2, 2, 1, 1, 1, 2]",7.316166678016939,0.252281609586791
+551,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,551,5,1.0,458.0,0.0,"[2, 2, 1, 1, 1, 2]",7.31616682879831,0.25228161478614863
+552,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,552,5,1.0,459.0,0.0,"[2, 2, 1, 1, 1, 2]",7.316166973650241,0.2522816197810428
+553,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,553,5,1.0,460.0,0.0,"[2, 2, 1, 1, 1, 2]",7.316167112802257,0.2522816245793882
+554,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,554,5,1.0,461.0,0.0009992122650146484,"[2, 2, 1, 1, 1, 2]",7.316167246475166,0.2522816291887988
+555,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,555,5,1.0,462.0,0.0,"[2, 2, 1, 1, 1, 2]",7.316167374881377,0.2522816336165992
+556,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,556,3,0.0,462.0,0.0,"[2, 2, 1, 2]",7.316167497568972,0.2522816378472059
+557,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,557,7,1.0,463.0,0.0,"[2, 0, 2, 2, 1, 1, 1, 2]",7.346369405835269,0.25332308295983685
+558,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,558,5,1.0,464.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346369515257619,0.25332308673302134
+559,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,559,5,1.0,465.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346369620404081,0.25332309035876144
+560,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,560,5,1.0,466.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.3463697214386094,0.2533230938427107
+561,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,561,5,1.0,467.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346369818519021,0.25332309719031104
+562,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,562,5,1.0,468.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346369911797222,0.2533231004068007
+563,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,563,5,1.0,469.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370001419422,0.2533231034972215
+564,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,564,5,1.0,470.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370087526338,0.2533231064664254
+565,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,565,5,1.0,471.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370170253394,0.25332310931908253
+566,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,566,5,1.0,472.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",7.346370249730917,0.2533231120596868
+567,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,567,5,1.0,473.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370326084319,0.25332311469256275
+568,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,568,5,1.0,474.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370399434284,0.25332311722187184
+569,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,569,5,1.0,475.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370469896932,0.25332311965161836
+570,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,570,5,1.0,476.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370537583992,0.2533231219856549
+571,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,571,5,1.0,477.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370602602963,0.2533231242276884
+572,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,572,5,1.0,478.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.346370665057267,0.25332312638128507
+573,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,573,5,1.0,479.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370725046403,0.253323128449876
+574,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,574,5,1.0,480.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370782666087,0.25332313043676163
+575,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,575,5,1.0,481.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370838008395,0.2533231323451171
+576,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,576,5,1.0,482.0,0.0,"[2, 2, 1, 1, 1, 2]",7.346370891161898,0.2533231341779965
+577,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,577,5,1.0,483.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.346370942211792,0.25332313593833766
+578,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,578,7,1.0,484.0,0.0,"[2, 0, 2, 2, 1, 1, 1, 2]",7.3750627072472215,0.2543125071464559
+579,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,579,5,1.0,485.0,0.0,"[2, 2, 1, 1, 1, 2]",7.375062752512321,0.2543125087073214
+580,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,580,7,1.0,486.0,0.0,"[2, 2, 1, 1, 3, 1, 1, 2]",7.405119570435827,0.25534895070468366
+581,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,581,5,1.0,487.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119612216722,0.2553489521454042
+582,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,582,5,1.0,488.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119652355718,0.25534895352950754
+583,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,583,5,1.0,489.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119690916129,0.25534895485917686
+584,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,584,5,1.0,490.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119727958883,0.2553489561365132
+585,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,585,5,1.0,491.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119763542615,0.25534895736353846
+586,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,586,5,1.0,492.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119797723746,0.25534895854219813
+587,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,587,5,1.0,493.0,0.0,"[2, 2, 1, 1, 1, 2]",7.40511983055656,0.25534895967436416
+588,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,588,5,1.0,494.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119862093298,0.2553489607618379
+589,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,589,5,1.0,495.0,0.0,"[2, 2, 1, 1, 1, 2]",7.405119892384215,0.25534896180635225
+590,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,590,7,1.0,496.0,0.0,"[2, 2, 2, 0, 1, 1, 1, 2]",7.4458445066536365,0.2567532588501254
+591,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,591,5,1.0,497.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844534596133,0.25675325981365976
+592,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,592,5,1.0,498.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844561432426,0.2567532607390492
+593,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,593,5,1.0,499.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844587205562,0.256753261627778
+594,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,594,5,1.0,500.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.445844611956946,0.256753262481274
+595,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,595,5,1.0,501.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844635726409,0.2567532633009107
+596,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,596,5,1.0,502.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844658552258,0.2567532640880089
+597,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,597,5,1.0,503.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844680471339,0.25675326484383926
+598,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,598,5,1.0,504.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844701519084,0.2567532655696236
+599,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,599,5,1.0,505.0,0.0010035037994384766,"[2, 2, 1, 1, 1, 2]",7.445844721729573,0.256753266266537
+600,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,600,5,1.0,506.0,0.0,"[2, 2, 1, 1, 1, 2]",7.445844741135579,0.2567532669357096
+601,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,601,5,1.0,507.0,0.0,"[1, 1, 2, 1, 2, 2]",7.4924508111664,0.2583603727988414
+602,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,602,5,1.0,508.0,0.0,"[2, 2, 1, 1, 1, 2]",7.492450829799435,0.2583603734413598
+603,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,603,5,1.0,509.0,0.0,"[2, 2, 1, 1, 1, 2]",7.492450847689806,0.25836037405826917
+604,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,604,5,1.0,510.0,0.0009987354278564453,"[2, 2, 1, 1, 1, 2]",7.492450864866651,0.25836037465057415
+605,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,605,5,1.0,511.0,0.0,"[2, 2, 1, 1, 1, 2]",7.492450881357989,0.258360375219241
+606,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,606,5,1.0,512.0,0.0,"[2, 2, 1, 1, 1, 2]",7.492450897190758,0.25836037576519855
+607,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,607,5,1.0,513.0,0.0,"[2, 2, 1, 1, 1, 2]",7.492450912390858,0.25836037628933994
+608,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,608,5,1.0,514.0,0.0,"[2, 2, 1, 1, 1, 2]",7.4924509269831905,0.2583603767925238
+609,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,609,5,1.0,515.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.4924509409916915,0.2583603772755756
+610,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,610,6,1.0,516.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",7.521259562229125,0.2593537780079009
+611,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,611,5,1.0,517.0,0.0,"[2, 2, 1, 1, 1, 2]",7.521259575138115,0.2593537784530384
+612,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,612,5,1.0,518.0,0.0,"[2, 2, 1, 1, 1, 2]",7.5212595875296735,0.25935377888033356
+613,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,613,5,1.0,519.0,0.0,"[2, 2, 1, 1, 1, 2]",7.521259599424244,0.2593537792904912
+614,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,614,5,1.0,520.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",7.521259610841472,0.2593537796841887
+615,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,615,8,1.0,521.0,0.0,"[3, 2, 2, 1, 1, 3, 1, 1, 2]",7.579892394880989,0.2613755998234824
+616,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,616,5,1.0,522.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892405399354,0.2613756001861846
+617,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,617,5,1.0,523.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892415494854,0.2613756005343053
+618,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,618,5,1.0,524.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892425184255,0.2613756008684226
+619,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,619,5,1.0,525.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",7.579892434483666,0.2613756011890919
+620,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,620,5,1.0,526.0,0.0,"[2, 2, 1, 1, 1, 2]",7.57989244340857,0.26137560149684724
+621,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,621,5,1.0,527.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892451973842,0.2613756017922015
+622,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,622,5,1.0,528.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892460193781,0.26137560207564764
+623,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,623,5,1.0,529.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892468082121,0.26137560234765933
+624,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,624,5,1.0,530.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892475652061,0.26137560260869175
+625,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,625,5,1.0,531.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.579892482916284,0.2613756028591822
+626,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,626,5,1.0,532.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892489886975,0.2613756030995508
+627,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,627,5,1.0,533.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892496575838,0.2613756033302013
+628,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,628,5,1.0,534.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892502994124,0.2613756035515215
+629,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,629,5,1.0,535.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892509152634,0.2613756037638839
+630,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,630,5,1.0,536.0,0.0010008811950683594,"[2, 2, 1, 1, 1, 2]",7.57989251506175,0.26137560396764653
+631,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,631,5,1.0,537.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892520731442,0.2613756041631532
+632,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,632,4,0.0,537.0,0.0,"[2, 2, 1, 1, 2]",7.579892526169616,0.2613756043506764
+633,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,633,5,1.0,538.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892531388825,0.2613756045306491
+634,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,634,5,1.0,539.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892536396227,0.26137560470331817
+635,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,635,5,1.0,540.0,0.0,"[2, 2, 1, 1, 1, 2]",7.579892541200313,0.2613756048689763
+636,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,636,5,1.0,541.0,0.0010688304901123047,"[2, 2, 1, 1, 1, 2]",7.579892545809238,0.26137560502790474
+637,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,637,3,0.0,541.0,0.0,"[2, 2, 1, 0]",7.579892550215817,0.26137560517985575
+638,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,638,7,1.0,542.0,0.0,"[0, 2, 2, 3, 1, 1, 1, 2]",7.64141236865777,0.2634969782295783
+639,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,639,5,1.0,543.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412372727011,0.26349697836989694
+640,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,640,5,1.0,544.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412376630604,0.2634969785045036
+641,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,641,5,1.0,545.0,0.0010030269622802734,"[2, 2, 1, 1, 1, 2]",7.641412380375214,0.2634969786336281
+642,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,642,5,1.0,546.0,0.0,"[2, 2, 1, 1, 1, 2]",7.64141238396724,0.26349697875749106
+643,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,643,5,1.0,547.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412387412828,0.2634969788763044
+644,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,644,5,1.0,548.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412390717877,0.2634969789902716
+645,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,645,5,1.0,549.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412393888054,0.2634969790995881
+646,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,646,5,1.0,550.0,0.0009980201721191406,"[2, 2, 1, 1, 1, 2]",7.641412396928799,0.2634969792044414
+647,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,647,5,1.0,551.0,0.0,"[2, 2, 1, 1, 1, 2]",7.64141239984534,0.2634969793050117
+648,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,648,5,1.0,552.0,0.0,"[2, 2, 1, 1, 1, 2]",7.64141240264269,0.26349697940147204
+649,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,649,5,1.0,553.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412405325665,0.2634969794939885
+650,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,650,5,1.0,554.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412407898891,0.2634969795827204
+651,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,651,5,1.0,555.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412410366811,0.26349697966782104
+652,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,652,5,1.0,556.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.641412412733683,0.2634969797494373
+653,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,653,5,1.0,557.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412415003601,0.26349697982771036
+654,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,654,5,1.0,558.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412417180493,0.2634969799027756
+655,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,655,5,1.0,559.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412419268131,0.2634969799747631
+656,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,656,5,1.0,560.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412421270136,0.2634969800437978
+657,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,657,5,1.0,561.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",7.641412423189984,0.26349698010999945
+658,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,658,5,1.0,562.0,0.0,"[2, 2, 1, 1, 1, 2]",7.64141242503101,0.2634969801734831
+659,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,659,5,1.0,563.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412426796418,0.26349698023435925
+660,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,660,5,1.0,564.0,0.0,"[2, 2, 1, 1, 1, 2]",7.6414124284892795,0.2634969802927338
+661,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,661,5,1.0,565.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412430112547,0.2634969803487085
+662,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,662,5,1.0,566.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412431669053,0.2634969804023811
+663,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,663,5,1.0,567.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412433161513,0.2634969804538453
+664,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,664,5,1.0,568.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412434592536,0.2634969805031909
+665,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,665,5,1.0,569.0,0.0,"[2, 2, 1, 1, 1, 2]",7.641412435964627,0.26349698055050436
+666,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,666,7,1.0,570.0,0.0,"[2, 2, 1, 3, 1, 1, 1, 2]",7.6781543115399185,0.26476394177723855
+667,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,667,5,1.0,571.0,0.0,"[2, 2, 1, 1, 1, 2]",7.678154312801182,0.26476394182073043
+668,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,668,5,1.0,572.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 2]",7.678154314010437,0.26476394186242885
+669,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,669,5,1.0,573.0,0.0,"[2, 2, 1, 1, 1, 2]",7.678154315169802,0.264763941902407
+670,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,670,5,1.0,574.0,0.0,"[2, 2, 1, 1, 1, 2]",7.678154316281313,0.26476394194073494
+671,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,671,5,1.0,575.0,0.0,"[2, 2, 1, 1, 1, 2]",7.67815431734692,0.26476394197748
+672,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,672,5,1.0,576.0,0.0,"[2, 2, 1, 1, 1, 2]",7.678154318368504,0.26476394201270703
+673,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,673,5,1.0,577.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.678154319347859,0.2647639420464779
+674,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,674,7,1.0,578.0,0.0,"[2, 2, 1, 1, 1, 0, 2, 2]",7.724409891311002,0.2663589617693449
+675,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,675,5,1.0,579.0,0.0,"[2, 2, 1, 1, 1, 2]",7.724409892211014,0.26635896180037977
+676,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,676,5,1.0,580.0,0.0,"[2, 2, 1, 1, 1, 2]",7.724409893073772,0.2663589618301301
+677,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,677,5,1.0,581.0,0.0,"[2, 2, 1, 1, 1, 2]",7.724409893900802,0.2663589618586483
+678,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,678,5,1.0,582.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.7244098946935695,0.2663589618859852
+679,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,679,5,1.0,583.0,0.0,"[2, 2, 1, 1, 1, 2]",7.724409895453479,0.26635896191218894
+680,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,680,6,1.0,584.0,0.0,"[2, 3, 2, 1, 1, 1, 2]",7.760665717729893,0.26760916268034113
+681,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,681,5,1.0,585.0,0.0,"[2, 2, 1, 1, 1, 2]",7.760665718428076,0.2676091627044164
+682,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,682,6,1.0,586.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",7.789240624236214,0.2685945042840074
+683,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,683,5,1.0,587.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",7.789240624877635,0.26859450430612536
+684,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,684,5,1.0,588.0,0.0,"[2, 2, 1, 1, 1, 2]",7.789240625492413,0.26859450432732457
+685,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,685,6,1.0,589.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",7.815240395007585,0.26949104810370983
+686,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,686,5,1.0,590.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524039557232,0.2694910481231835
+687,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,687,5,1.0,591.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240396113567,0.26949104814184716
+688,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,688,5,1.0,592.0,0.0010671615600585938,"[2, 2, 1, 1, 1, 2]",7.815240396632296,0.26949104815973435
+689,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,689,5,1.0,593.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240397129433,0.26949104817687697
+690,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,690,5,1.0,594.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240397605869,0.2694910481933058
+691,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,691,5,1.0,595.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240398062457,0.26949104820905023
+692,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,692,5,1.0,596.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240398500018,0.26949104822413855
+693,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,693,5,1.0,597.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240398919337,0.2694910482385978
+694,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,694,5,1.0,598.0,0.0010013580322265625,"[2, 2, 1, 1, 1, 2]",7.815240399321166,0.269491048252454
+695,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,695,5,1.0,599.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240399706229,0.26949104826573206
+696,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,696,5,1.0,600.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240400075222,0.26949104827845594
+697,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,697,5,1.0,601.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240400428806,0.26949104829064846
+698,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,698,5,1.0,602.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240400767619,0.2694910483023317
+699,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,699,5,1.0,603.0,0.0009992122650146484,"[2, 2, 1, 1, 1, 2]",7.815240401092275,0.2694910483135267
+700,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,700,5,1.0,604.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524040140336,0.2694910483242538
+701,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,701,5,1.0,605.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240401701434,0.2694910483345322
+702,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,702,5,1.0,606.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240401987039,0.26949104834438065
+703,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,703,5,1.0,607.0,0.0,"[2, 2, 1, 1, 1, 2]",7.8152404022606925,0.269491048353817
+704,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,704,5,1.0,608.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 2]",7.815240402522888,0.2694910483628582
+705,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,705,5,1.0,609.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240402774105,0.2694910483715209
+706,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,706,5,1.0,610.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240403014796,0.2694910483798206
+707,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,707,5,1.0,611.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240403245399,0.2694910483877724
+708,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,708,5,1.0,612.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240403466333,0.2694910483953908
+709,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,709,5,1.0,613.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240403678002,0.2694910484026897
+710,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,710,5,1.0,614.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",7.81524040388079,0.2694910484096824
+711,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,711,5,1.0,615.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240404075069,0.26949104841638166
+712,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,712,5,1.0,616.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524040426119,0.26949104842279964
+713,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,713,5,1.0,617.0,0.0,"[2, 2, 1, 1, 1, 2]",7.8152404044394945,0.2694910484289481
+714,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,714,5,1.0,618.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240404610307,0.2694910484348382
+715,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,715,5,1.0,619.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.815240404773941,0.2694910484404807
+716,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,716,5,1.0,620.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240404930696,0.26949104844588606
+717,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,717,5,1.0,621.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405080858,0.2694910484510641
+718,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,718,5,1.0,622.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405224704,0.2694910484560243
+719,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,719,5,1.0,623.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405362496,0.2694910484607757
+720,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,720,5,1.0,624.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405494487,0.2694910484653271
+721,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,721,5,1.0,625.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.81524040562092,0.2694910484696869
+722,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,722,5,1.0,626.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405742028,0.269491048473863
+723,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,723,5,1.0,627.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405858032,0.26949104847786315
+724,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,724,5,1.0,628.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240405969146,0.2694910484816947
+725,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,725,5,1.0,629.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240406075575,0.26949104848536465
+726,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,726,5,1.0,630.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",7.815240406177514,0.2694910484888798
+727,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,727,5,1.0,631.0,0.0,"[2, 2, 1, 1, 1, 2]",7.8152404062751515,0.2694910484922466
+728,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,728,5,1.0,632.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524040636867,0.26949104849547134
+729,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,729,5,1.0,633.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240406458239,0.26949104849856
+730,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,730,5,1.0,634.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240406544026,0.26949104850151817
+731,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,731,5,1.0,635.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.815240406626189,0.26949104850435135
+732,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,732,5,1.0,636.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524040670488,0.26949104850706485
+733,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,733,5,1.0,637.0,0.0,"[2, 2, 1, 1, 1, 2]",7.8152404067802435,0.26949104850966354
+734,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,734,5,1.0,638.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524040685242,0.26949104851215244
+735,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,735,5,1.0,639.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240406921545,0.26949104851453604
+736,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,736,5,1.0,640.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240406987745,0.2694910485168188
+737,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,737,5,1.0,641.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.815240407051144,0.26949104851900496
+738,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,738,5,1.0,642.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407111859,0.26949104852109856
+739,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,739,3,0.0,642.0,0.0,"[2, 2, 1, 0]",7.815240407169877,0.2694910485230992
+740,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,740,5,1.0,643.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407225558,0.26949104852501926
+741,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,741,5,1.0,644.0,0.0,"[2, 2, 1, 1, 1, 2]",7.81524040727888,0.26949104852685796
+742,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,742,5,1.0,645.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407329942,0.2694910485286187
+743,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,743,5,1.0,646.0,0.0010676383972167969,"[2, 2, 1, 1, 1, 2]",7.815240407378839,0.2694910485303048
+744,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,744,5,1.0,647.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407425662,0.2694910485319194
+745,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,745,5,1.0,648.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407470499,0.2694910485334655
+746,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,746,5,1.0,649.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407513435,0.26949104853494604
+747,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,747,5,1.0,650.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407554548,0.2694910485363637
+748,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,748,5,1.0,651.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",7.815240407593916,0.26949104853772127
+749,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,749,5,1.0,652.0,0.0,"[2, 2, 1, 1, 1, 2]",7.815240407631611,0.26949104853902106
+750,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,750,7,1.0,653.0,0.0,"[2, 2, 0, 2, 1, 1, 1, 2]",7.847812136008649,0.2706142115865051
+751,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,751,5,1.0,654.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136043198,0.2706142115876965
+752,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,752,5,1.0,655.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136076268,0.2706142115888368
+753,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,753,5,1.0,656.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",7.847812136107921,0.2706142115899283
+754,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,754,5,1.0,657.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136138217,0.270614211590973
+755,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,755,5,1.0,658.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136167216,0.27061421159197296
+756,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,756,5,1.0,659.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136194973,0.2706142115929301
+757,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,757,5,1.0,660.0,0.0,"[2, 2, 1, 1, 1, 2]",7.84781213622154,0.2706142115938462
+758,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,758,5,1.0,661.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136246968,0.27061421159472304
+759,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,759,5,1.0,662.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",7.8478121362713065,0.2706142115955623
+760,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,760,5,1.0,663.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136294602,0.27061421159636556
+761,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,761,5,1.0,664.0,0.0,"[2, 2, 1, 1, 1, 2]",7.847812136316897,0.2706142115971344
+762,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,762,5,1.0,665.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",7.847812136338236,0.2706142115978702
+763,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,763,6,1.0,666.0,0.0,"[2, 2, 1, 1, 1, 1, 2]",7.872871493893052,0.2714783273756225
+764,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,764,5,1.0,667.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871493912599,0.2714783273762965
+765,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,765,5,1.0,668.0,0.001001119613647461,"[2, 2, 1, 1, 1, 2]",7.872871493931308,0.27147832737694166
+766,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,766,5,1.0,669.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871493949214,0.2714783273775591
+767,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,767,5,1.0,670.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871493966351,0.27147832737815003
+768,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,768,5,1.0,671.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871493982752,0.2714783273787156
+769,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,769,5,1.0,672.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.872871493998449,0.27147832737925687
+770,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,770,5,1.0,673.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871494013474,0.27147832737977495
+771,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,771,5,1.0,674.0,0.0,"[2, 2, 1, 1, 1, 2]",7.8728714940278515,0.2714783273802707
+772,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,772,5,1.0,675.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871494041613,0.2714783273807453
+773,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,773,5,1.0,676.0,0.0,"[2, 2, 1, 1, 1, 2]",7.872871494054782,0.27147832738119937
+774,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,774,5,1.0,677.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 2]",7.872871494067386,0.271478327381634
+775,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,775,7,1.0,678.0,0.0,"[2, 2, 1, 1, 1, 0, 2, 2]",7.918258598785105,0.27304339995810706
+776,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,776,5,1.0,679.0,0.0,"[2, 2, 1, 1, 1, 2]",7.9182585987966485,0.27304339995850513
+777,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,777,5,1.0,680.0,0.0009987354278564453,"[2, 2, 1, 1, 1, 2]",7.918258598807697,0.2730433999588861
+778,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,778,5,1.0,681.0,0.0,"[2, 2, 1, 1, 1, 2]",7.918258598818269,0.27304339995925064
+779,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,779,5,1.0,682.0,0.0,"[2, 2, 1, 1, 1, 2]",7.918258598828388,0.2730433999595996
+780,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,780,5,1.0,683.0,0.0,"[2, 2, 1, 1, 1, 2]",7.91825859883807,0.27304339995993343
+781,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,781,5,1.0,684.0,0.0,"[2, 2, 1, 1, 1, 2]",7.918258598847336,0.27304339996025295
+782,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,782,5,1.0,685.0,0.0010013580322265625,"[2, 2, 1, 1, 1, 2]",7.918258598856203,0.2730433999605587
+783,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,783,5,1.0,686.0,0.0,"[2, 2, 1, 1, 1, 2]",7.918258598864687,0.2730433999608513
+784,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,784,7,1.0,687.0,0.0,"[2, 2, 2, 0, 1, 1, 1, 2]",7.95888088930209,0.2744441685966238
+785,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,785,5,1.0,688.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889309861,0.27444416859689175
+786,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,786,5,1.0,689.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889317299,0.2744441685971482
+787,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,787,5,1.0,690.0,0.0010030269622802734,"[2, 2, 1, 1, 1, 2]",7.958880889324415,0.2744441685973936
+788,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,788,5,1.0,691.0,0.0,"[2, 2, 1, 1, 1, 2]",7.9588808893312235,0.2744441685976284
+789,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,789,5,1.0,692.0,0.0,"[2, 2, 1, 1, 1, 2]",7.95888088933774,0.2744441685978531
+790,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,790,5,1.0,693.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889343976,0.27444416859806814
+791,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,791,5,1.0,694.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889349944,0.2744441685982739
+792,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,792,5,1.0,695.0,0.001051187515258789,"[2, 2, 1, 1, 1, 2]",7.958880889355654,0.2744441685984708
+793,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,793,4,0.0,695.0,0.0,"[2, 2, 1, 1, 2]",7.958880889361117,0.2744441685986592
+794,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,794,5,1.0,696.0,0.0,"[2, 2, 1, 1, 1, 2]",7.9588808893663465,0.2744441685988395
+795,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,795,4,0.0,696.0,0.0,"[2, 2, 1, 1, 2]",7.958880889371349,0.27444416859901205
+796,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,796,5,1.0,697.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889376137,0.27444416859917714
+797,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,797,5,1.0,698.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889380719,0.2744441685993351
+798,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,798,5,1.0,699.0,0.0009989738464355469,"[2, 2, 1, 1, 1, 2]",7.958880889385102,0.2744441685994863
+799,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,799,5,1.0,700.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889389297,0.27444416859963094
+800,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,800,5,1.0,701.0,0.0,"[2, 2, 1, 1, 1, 2]",7.95888088939331,0.2744441685997693
+801,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,801,5,1.0,702.0,0.0,"[2, 2, 1, 1, 1, 2]",7.95888088939715,0.2744441685999017
+802,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,802,5,1.0,703.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889400826,0.27444416860002846
+803,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,803,5,1.0,704.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889404341,0.2744441686001497
+804,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,804,5,1.0,705.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.9588808894077046,0.27444416860026566
+805,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,805,5,1.0,706.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889410923,0.2744441686003767
+806,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,806,5,1.0,707.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889414003,0.2744441686004829
+807,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,807,5,1.0,708.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889416949,0.27444416860058446
+808,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,808,5,1.0,709.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889419768,0.27444416860068166
+809,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,809,5,1.0,710.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",7.958880889422465,0.27444416860077464
+810,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,810,5,1.0,711.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889425046,0.2744441686008637
+811,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,811,5,1.0,712.0,0.0,"[2, 2, 1, 1, 1, 2]",7.958880889427515,0.2744441686009488
+812,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,812,7,1.0,713.0,0.0,"[2, 2, 1, 1, 1, 0, 2, 2]",8.003370735521198,0.2759783012248689
+813,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,813,5,1.0,714.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735523458,0.2759783012249468
+814,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,814,5,1.0,715.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",8.00337073552562,0.27597830122502137
+815,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,815,4,0.0,715.0,0.0,"[2, 2, 1, 1, 2]",8.003370735527687,0.27597830122509265
+816,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,816,5,1.0,716.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735529666,0.27597830122516087
+817,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,817,5,1.0,717.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735531561,0.27597830122522626
+818,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,818,5,1.0,718.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735533375,0.27597830122528877
+819,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,819,5,1.0,719.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735535107,0.2759783012253485
+820,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,820,5,1.0,720.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",8.003370735536764,0.2759783012254057
+821,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,821,5,1.0,721.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073553835,0.27597830122546035
+822,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,822,5,1.0,722.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735539868,0.2759783012255127
+823,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,823,5,1.0,723.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735541319,0.2759783012255627
+824,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,824,5,1.0,724.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735542708,0.2759783012256106
+825,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,825,5,1.0,725.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",8.003370735544037,0.2759783012256564
+826,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,826,5,1.0,726.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735545309,0.2759783012257003
+827,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,827,5,1.0,727.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735546527,0.2759783012257423
+828,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,828,5,1.0,728.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073554769,0.27597830122578243
+829,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,829,5,1.0,729.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735548804,0.27597830122582084
+830,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,830,5,1.0,730.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073554987,0.2759783012258576
+831,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,831,5,1.0,731.0,0.0010006427764892578,"[2, 2, 1, 1, 1, 2]",8.00337073555089,0.27597830122589273
+832,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,832,5,1.0,732.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735551865,0.27597830122592637
+833,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,833,5,1.0,733.0,0.0,"[2, 2, 1, 1, 1, 2]",8.0033707355528,0.2759783012259586
+834,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,834,5,1.0,734.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735553693,0.27597830122598943
+835,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,835,5,1.0,735.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735554547,0.27597830122601885
+836,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,836,5,1.0,736.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",8.003370735555364,0.27597830122604705
+837,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,837,5,1.0,737.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735556148,0.2759783012260741
+838,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,838,5,1.0,738.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735556894,0.2759783012260998
+839,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,839,5,1.0,739.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073555761,0.2759783012261245
+840,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,840,5,1.0,740.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735558295,0.27597830122614814
+841,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,841,5,1.0,741.0,0.001001596450805664,"[2, 2, 1, 1, 1, 2]",8.00337073555895,0.2759783012261707
+842,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,842,5,1.0,742.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735559574,0.2759783012261922
+843,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,843,5,1.0,743.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735560171,0.2759783012262128
+844,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,844,5,1.0,744.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735560743,0.2759783012262325
+845,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,845,5,1.0,745.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735561292,0.27597830122625144
+846,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,846,5,1.0,746.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735561814,0.2759783012262695
+847,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,847,5,1.0,747.0,0.0010471343994140625,"[2, 2, 1, 1, 1, 2]",8.003370735562314,0.2759783012262867
+848,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,848,5,1.0,748.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735562793,0.27597830122630324
+849,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,849,5,1.0,749.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735563252,0.275978301226319
+850,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,850,5,1.0,750.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073556369,0.27597830122633416
+851,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,851,5,1.0,751.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073556411,0.2759783012263486
+852,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,852,5,1.0,752.0,0.0009989738464355469,"[2, 2, 1, 1, 1, 2]",8.00337073556451,0.2759783012263624
+853,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,853,5,1.0,753.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735564891,0.27597830122637557
+854,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,854,5,1.0,754.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735565257,0.27597830122638817
+855,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,855,5,1.0,755.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735565609,0.2759783012264003
+856,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,856,5,1.0,756.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735565944,0.27597830122641187
+857,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,857,5,1.0,757.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735566266,0.275978301226423
+858,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,858,5,1.0,758.0,0.0010004043579101562,"[2, 2, 1, 1, 1, 2]",8.003370735566573,0.2759783012264336
+859,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,859,5,1.0,759.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735566866,0.2759783012264437
+860,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,860,5,1.0,760.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735567147,0.27597830122645334
+861,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,861,5,1.0,761.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735567415,0.2759783012264626
+862,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,862,5,1.0,762.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735567671,0.27597830122647143
+863,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,863,5,1.0,763.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",8.003370735567918,0.2759783012264799
+864,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,864,5,1.0,764.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735568154,0.2759783012264881
+865,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,865,5,1.0,765.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073556838,0.27597830122649586
+866,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,866,5,1.0,766.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735568595,0.27597830122650324
+867,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,867,5,1.0,767.0,0.0,"[2, 2, 1, 1, 1, 2]",8.0033707355688,0.27597830122651035
+868,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,868,5,1.0,768.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",8.003370735568998,0.2759783012265172
+869,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,869,5,1.0,769.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735569188,0.2759783012265237
+870,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,870,5,1.0,770.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735569368,0.2759783012265299
+871,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,871,5,1.0,771.0,0.0,"[2, 2, 1, 1, 1, 2]",8.00337073556954,0.2759783012265359
+872,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,872,5,1.0,772.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735569703,0.2759783012265415
+873,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,873,5,1.0,773.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735569861,0.27597830122654693
+874,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,874,5,1.0,774.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",8.00337073557001,0.2759783012265521
+875,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,875,5,1.0,775.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735570154,0.27597830122655703
+876,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,876,5,1.0,776.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735570291,0.27597830122656175
+877,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,877,5,1.0,777.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735570423,0.2759783012265663
+878,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,878,5,1.0,778.0,0.0,"[2, 2, 1, 1, 1, 2]",8.003370735570547,0.2759783012265706
+879,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,879,7,1.0,779.0,0.0009999275207519531,"[2, 2, 2, 0, 1, 1, 1, 2]",8.043799148364453,0.2773723844263605
+880,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,880,5,1.0,780.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148364569,0.2773723844263644
+881,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,881,5,1.0,781.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148364679,0.27737238442636825
+882,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,882,5,1.0,782.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148364783,0.27737238442637185
+883,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,883,5,1.0,783.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148364885,0.27737238442637535
+884,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,884,5,1.0,784.0,0.0,"[2, 2, 1, 1, 1, 2]",8.04379914836498,0.2773723844263786
+885,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,885,5,1.0,785.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365073,0.27737238442638185
+886,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,886,5,1.0,786.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365162,0.2773723844263849
+887,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,887,5,1.0,787.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365247,0.27737238442638784
+888,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,888,5,1.0,788.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365327,0.27737238442639056
+889,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,889,5,1.0,789.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365405,0.2773723844263933
+890,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,890,5,1.0,790.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",8.04379914836548,0.27737238442639583
+891,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,891,5,1.0,791.0,0.0,"[2, 2, 1, 1, 1, 2]",8.04379914836555,0.27737238442639833
+892,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,892,5,1.0,792.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365618,0.2773723844264006
+893,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,893,5,1.0,793.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365682,0.27737238442640283
+894,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,894,5,1.0,794.0,0.0,"[2, 2, 1, 1, 1, 2]",8.043799148365743,0.27737238442640494
+895,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,895,5,1.0,795.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",8.043799148365801,0.27737238442640694
+896,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,896,5,1.0,796.0,6.67572021484375e-05,"[2, 2, 1, 1, 1, 2]",8.043799148365858,0.2773723844264089
+897,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,897,6,1.0,797.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",8.070945308877093,0.2783084589267963
+898,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,898,5,1.0,798.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877143,0.278308458926798
+899,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,899,5,1.0,799.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887719,0.2783084589267997
+900,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,900,5,1.0,800.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877237,0.2783084589268013
+901,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,901,5,1.0,801.0,0.0010018348693847656,"[2, 2, 1, 1, 1, 2]",8.070945308877281,0.2783084589268028
+902,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,902,5,1.0,802.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877324,0.2783084589268043
+903,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,903,5,1.0,803.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877365,0.27830845892680567
+904,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,904,5,1.0,804.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877404,0.278308458926807
+905,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,905,5,1.0,805.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887744,0.2783084589268082
+906,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,906,5,1.0,806.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",8.070945308877475,0.2783084589268095
+907,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,907,5,1.0,807.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877508,0.27830845892681066
+908,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,908,5,1.0,808.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887754,0.2783084589268117
+909,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,909,5,1.0,809.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887757,0.2783084589268128
+910,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,910,5,1.0,810.0,0.0,"[2, 2, 1, 1, 1, 2]",8.0709453088776,0.27830845892681383
+911,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,911,5,1.0,811.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887763,0.27830845892681483
+912,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,912,5,1.0,812.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",8.070945308877658,0.27830845892681577
+913,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,913,5,1.0,813.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877684,0.2783084589268167
+914,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,914,5,1.0,814.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887771,0.27830845892681755
+915,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,915,5,1.0,815.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877734,0.27830845892681844
+916,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,916,5,1.0,816.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877755,0.27830845892681916
+917,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,917,5,1.0,817.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",8.070945308877777,0.2783084589268199
+918,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,918,5,1.0,818.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877796,0.27830845892682055
+919,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,919,5,1.0,819.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877816,0.2783084589268212
+920,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,920,5,1.0,820.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877834,0.2783084589268218
+921,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,921,5,1.0,821.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877851,0.27830845892682243
+922,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,922,5,1.0,822.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877869,0.2783084589268231
+923,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,923,5,1.0,823.0,0.0010008811950683594,"[2, 2, 1, 1, 1, 2]",8.070945308877885,0.2783084589268236
+924,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,924,5,1.0,824.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877901,0.27830845892682415
+925,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,925,5,1.0,825.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877917,0.2783084589268247
+926,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,926,5,1.0,826.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877931,0.2783084589268252
+927,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,927,5,1.0,827.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877945,0.2783084589268257
+928,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,928,5,1.0,828.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",8.07094530887796,0.2783084589268262
+929,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,929,5,1.0,829.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877972,0.27830845892682665
+930,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,930,5,1.0,830.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877985,0.27830845892682704
+931,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,931,5,1.0,831.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308877997,0.2783084589268275
+932,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,932,5,1.0,832.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878008,0.2783084589268279
+933,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,933,5,1.0,833.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878018,0.2783084589268282
+934,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,934,5,1.0,834.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",8.070945308878029,0.2783084589268286
+935,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,935,5,1.0,835.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887804,0.2783084589268289
+936,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,936,5,1.0,836.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887805,0.2783084589268293
+937,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,937,5,1.0,837.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887806,0.27830845892682965
+938,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,938,5,1.0,838.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878066,0.27830845892682987
+939,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,939,5,1.0,839.0,0.0010001659393310547,"[2, 2, 1, 1, 1, 2]",8.070945308878073,0.2783084589268301
+940,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,940,5,1.0,840.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887808,0.27830845892683037
+941,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,941,5,1.0,841.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878088,0.2783084589268306
+942,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,942,5,1.0,842.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878095,0.27830845892683087
+943,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,943,5,1.0,843.0,0.0,"[2, 2, 1, 1, 1, 2]",8.0709453088781,0.27830845892683104
+944,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,944,5,1.0,844.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878105,0.2783084589268312
+945,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,945,5,1.0,845.0,0.0,"[2, 2, 1, 1, 1, 2]",8.07094530887811,0.2783084589268314
+946,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,946,5,1.0,846.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878116,0.2783084589268316
+947,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,947,5,1.0,847.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878121,0.27830845892683176
+948,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,948,5,1.0,848.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878127,0.278308458926832
+949,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,949,5,1.0,849.0,0.0,"[2, 2, 1, 1, 1, 2]",8.070945308878132,0.27830845892683215
+950,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,950,5,1.0,850.0,0.0010695457458496094,"[2, 2, 1, 1, 1, 2]",8.070945308878136,0.27830845892683226
+951,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,951,5,1.0,851.0,0.0,"[1, 1, 2, 1, 2, 2]",8.117217663170132,0.27990405735069424
+952,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,952,7,1.0,852.0,0.0,"[2, 2, 2, 0, 1, 1, 1, 2]",8.157370030365776,0.2812886217367509
+953,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,953,5,1.0,853.0,0.0,"[2, 2, 1, 1, 1, 2]",8.15737003036578,0.281288621736751
+954,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,954,6,1.0,854.0,0.0,"[2, 2, 3, 1, 1, 1, 2]",8.182069810858852,0.2821403383054777
+955,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,955,5,1.0,855.0,0.0010018348693847656,"[2, 2, 1, 1, 1, 2]",8.182069810858856,0.2821403383054778
+956,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,956,5,1.0,856.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085886,0.2821403383054779
+957,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,957,5,1.0,857.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858863,0.282140338305478
+958,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,958,3,0.0,857.0,0.0,"[2, 2, 1, 2]",8.182069810858867,0.28214033830547813
+959,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,959,5,1.0,858.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085887,0.2821403383054783
+960,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,960,5,1.0,859.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858874,0.2821403383054784
+961,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,961,5,1.0,860.0,0.00099945068359375,"[2, 2, 1, 1, 1, 2]",8.182069810858877,0.2821403383054785
+962,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,962,5,1.0,861.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085888,0.28214033830547863
+963,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,963,5,1.0,862.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858883,0.2821403383054787
+964,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,964,5,1.0,863.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858884,0.28214033830547874
+965,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,965,5,1.0,864.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858886,0.28214033830547885
+966,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,966,5,1.0,865.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858888,0.2821403383054789
+967,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,967,5,1.0,866.0,0.0009996891021728516,"[2, 2, 1, 1, 1, 2]",8.18206981085889,0.28214033830547897
+968,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,968,5,1.0,867.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858891,0.282140338305479
+969,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,969,5,1.0,868.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858893,0.2821403383054791
+970,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,970,5,1.0,869.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858895,0.28214033830547913
+971,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,971,5,1.0,870.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858897,0.2821403383054792
+972,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,972,5,1.0,871.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",8.182069810858899,0.28214033830547924
+973,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,973,5,1.0,872.0,0.0,"[2, 2, 1, 1, 1, 2]",8.1820698108589,0.2821403383054793
+974,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,974,5,1.0,873.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858902,0.28214033830547935
+975,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,975,5,1.0,874.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858904,0.28214033830547947
+976,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,976,5,1.0,875.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858906,0.2821403383054795
+977,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,977,3,0.0,875.0,0.0,"[2, 2, 1, 2]",8.182069810858907,0.2821403383054796
+978,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,978,5,1.0,876.0,0.0010006427764892578,"[2, 2, 1, 1, 1, 2]",8.18206981085891,0.28214033830547963
+979,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,979,5,1.0,877.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858911,0.2821403383054797
+980,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,980,5,1.0,878.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858913,0.28214033830547974
+981,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,981,5,1.0,879.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858914,0.2821403383054798
+982,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,982,5,1.0,880.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858916,0.28214033830547985
+983,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,983,5,1.0,881.0,0.0,"[2, 2, 1, 1, 1, 2]",8.182069810858918,0.2821403383054799
+984,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,984,5,1.0,882.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085892,0.28214033830548
+985,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,985,5,1.0,883.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085892,0.28214033830548
+986,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,986,5,1.0,884.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085892,0.28214033830548
+987,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,987,5,1.0,885.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085892,0.28214033830548
+988,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,988,5,1.0,886.0,0.0,"[2, 2, 1, 1, 1, 2]",8.18206981085892,0.28214033830548
+989,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,989,5,1.0,887.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",8.18206981085892,0.28214033830548
+990,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,990,6,1.0,888.0,0.0,"[0, 2, 2, 1, 1, 1, 2]",8.214513869512396,0.2832590989487033
+991,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,991,5,1.0,889.0,0.0,"[2, 2, 1, 1, 1, 2]",8.214513869512396,0.2832590989487033
+992,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,992,6,1.0,890.0,0.0,"[3, 2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+993,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,993,5,1.0,891.0,0.0,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+994,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,994,5,1.0,892.0,0.0009999275207519531,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+995,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,995,5,1.0,893.0,0.0,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+996,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,996,5,1.0,894.0,0.0,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+997,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,997,5,1.0,895.0,0.0,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+998,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,998,5,1.0,896.0,0.0,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137
+999,"Qlearntab_numeric_encoder_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,999,5,1.0,897.0,0.0,"[2, 2, 1, 1, 1, 2]",8.24030272199807,0.28414836972407137

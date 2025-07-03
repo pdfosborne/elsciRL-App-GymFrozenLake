@@ -1,0 +1,13 @@
+Instruction/Experiment/Agent,Num Repeats,Number Episodes,Avg R Mean,Avg R Median,Avg R Std Error,Avg R Std Dev,Avg R Variance,Cumulative R Mean,Cumulative R Median,Cumulative R Std Error,Cumulative R Std Dev,Cumulative R Variance,Time Avg
+instr/Instr_Experiment_testing/DQN_language,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0009454647302626862
+instr/Instr_Experiment_testing/DQN_LLM,10,1000,0.1,0.1,0.0,0.0,0.0,50.05,50.05,0.9133272505880172,28.88194360957494,834.1666666666666,0.0025339696407317347
+instr/Instr_Experiment_testing/DQN_numeric_encoder,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.009050473928451458
+instr/Instr_Experiment_testing/Qlearntab_language,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.024049294233322065
+instr/Instr_Experiment_testing/Qlearntab_LLM,10,1000,0.015281976433868603,0.015,0.00013911214939178358,0.004396912316420866,1.933283791829351e-05,7.7476,8.1,0.14668773476856042,4.638673466793231,21.51729153153153,0.00406587791442864
+instr/Instr_Experiment_testing/Qlearntab_numeric_encoder,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0017358504533767141
+no_instr/Standard_Experiment_testing/DefaultEng_DQN_language,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0006715797185897256
+no_instr/Standard_Experiment_testing/DefaultEng_DQN_LLM,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.028465210199356
+no_instr/Standard_Experiment_testing/DefaultEng_DQN_numeric_encoder,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00846304583549491
+no_instr/Standard_Experiment_testing/DefaultEng_Qlearntab_language,10,1000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02557900953292839
+no_instr/Standard_Experiment_testing/DefaultEng_Qlearntab_LLM,10,1000,0.014496724818349412,0.014,0.00013202354641767336,0.004172863116840864,1.741278659189085e-05,6.655399999999999,6.3,0.13275946638909,4.198222947380941,17.625075915915914,0.006837538838386457
+no_instr/Standard_Experiment_testing/DefaultEng_Qlearntab_numeric_encoder,10,1000,0.12870664802014956,0.1298850574712644,0.00028487443925428394,0.009004015365063648,8.107229269430225e-05,63.9261,63.849999999999994,1.1793648163991328,37.2947901208756,1390.9013701601602,7.4982643127430995e-06
